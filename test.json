@@ -1,0 +1,10 @@
+{
+  "first_person": {
+    "ber": "ber",
+    "ket": "ket"
+  },
+  "sec_person": {
+    "first_name": "john",
+    "last_name": "doe"
+  }
+}
