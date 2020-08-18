@@ -1,7 +1,9 @@
+# frozen_string_literal: true
+
 require 'json'
 class FileHandler
-  TEAM_DIR_NAME = "./docs/clubs/"
-  PLAYER_DIR_NAME = "./docs/players/"
+  TEAM_DIR_NAME = './docs/clubs/'
+  PLAYER_DIR_NAME = './docs/players/'
 
   def initialize(hash, file_name)
     @hash = hash
