@@ -1,4 +1,5 @@
-class FileWriter
+require 'json'
+class FileHandler
   TEAM_DIR_NAME = "./docs/clubs/"
   PLAYER_DIR_NAME = "./docs/players/"
 
@@ -17,6 +18,10 @@ class FileWriter
   end
 
   def dir_maker(dir)
-    Dir.mkdir(dir) unless File.exists?(dir)
+    Dir.mkdir(dir) unless File.exist?(dir)
+  end
+
+  def self.file_reader(dir_type, file_name)
+    return JSON.parse(File.read("#{TEAM_DIR_NAME}#{file_name}.json")) if dir_type == 'CLUBS'
   end
 end
