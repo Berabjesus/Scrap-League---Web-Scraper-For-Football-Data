@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 hash_1 = {}
 main = {}
 arr = %i[mm ll ee]
