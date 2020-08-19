@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative './parser.rb'
 require_relative './file_handler'
 # require_relative './player_scraper'

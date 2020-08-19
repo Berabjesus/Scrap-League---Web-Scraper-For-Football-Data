@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative './parser.rb'
 require_relative './file_handler.rb'
 
@@ -28,17 +30,18 @@ class PlayerScraper < Parser
     Clearances
     Errors
   ].freeze
-  PLAYER_DEF_SELECTED_INDEX = [4, 5, 19, 23, 24, 25, 26]
+  PLAYER_DEF_SELECTED_INDEX = [4, 5, 19, 23, 24, 25, 26].freeze
   PLAYER_GK_STAT = %i[
     Goals_conceded
     Goals_conceded_90
     Saves
     Save_%
     Clean_sheet
-  ]
-  PLAYER_GK_SELECTED_INDEX = [6, 7, 9, 10, 14]
-  SITE = 'https://fbref.com'.freeze
-  CLUB = 'CLUBS'.freeze
+  ].freeze
+  PLAYER_GK_SELECTED_INDEX = [6, 7, 9, 10, 14].freeze
+  SITE = 'https://fbref.com'
+  CLUB = 'CLUBS'
+
   def initialize(league)
     @league = league
     @url_hash = {}
@@ -65,25 +68,25 @@ class PlayerScraper < Parser
   def scrap_players(parsed_url, team_name)
     table_rows_attack = parsed_url.at('tbody').css('tr')
     table_rows_defence = parsed_url.css('tbody')[8].css('tr')
-    table_rows_gk =  parsed_url.css('tbody')[2].css('tr')
+    table_rows_gk = parsed_url.css('tbody')[2].css('tr')
     players_outter_hash = {}
     players_outter_hash[team_name] = {}
     players_inner_hash = {}
     table_rows_attack.length.times do |i|
-      players_inner_hash[table_rows_attack[i].css('th').text.strip] = {}
+      inner_hash = players_inner_hash[table_rows_attack[i].css('th').text.strip] = {}
       PLAYER_ATT_STAT.length.times do |j|
-        players_inner_hash[table_rows_attack[i].css('th').text.strip].merge!(PLAYER_ATT_STAT[j] => table_rows_attack[i].css('td')[j].text.gsub(/[[:lower:]]+/, '').strip)
+        inner_hash.merge!(PLAYER_ATT_STAT[j] => text_cleaner(table_rows_attack[i].css('td')[j].text))
       end
       if !table_rows_defence[i].nil? && (table_rows_attack[i].css('th').text.strip == table_rows_defence[i].css('th').text.strip)
         PLAYER_DEF_SELECTED_INDEX.each_with_index do |k, l|
-          players_inner_hash[table_rows_attack[i].css('th').text.strip].merge!(PLAYER_DEF_STAT[l] => table_rows_defence[i].css('td')[k].text)
+          inner_hash.merge!(PLAYER_DEF_STAT[l] => table_rows_defence[i].css('td')[k].text)
         end
       end
       table_rows_gk.length.times do |m|
         next unless table_rows_attack[i].css('th').text.strip == table_rows_gk[m].css('th').text.strip
 
         PLAYER_GK_SELECTED_INDEX.each_with_index do |k, l|
-          players_inner_hash[table_rows_attack[i].css('th').text.strip].merge!(PLAYER_GK_STAT[l] => table_rows_gk[m].css('td')[k].text)
+          inner_hash.merge!(PLAYER_GK_STAT[l] => table_rows_gk[m].css('td')[k].text)
         end
       end
       players_outter_hash[team_name].merge!(players_inner_hash)
@@ -91,15 +94,9 @@ class PlayerScraper < Parser
     FileHandler.new(players_outter_hash, @league).players_to_json
   end
 
-  def scrap_defensive_stat()
-    PLAYER_DEF_SELECTED_INDEX.each_with_index do |k, l|
-      players_inner_hash[table_rows_attack[i].css('th').text.strip].merge!(PLAYER_DEF_STAT[l] => table_rows_defence[i].css('td')[k].text)
-    end
+  def text_cleaner(string)
+    string.gsub(/[[:lower:]]+/, '').strip
   end
-
-  def scrap_goal_keeper_stat()
-  end
-
 end
 
 PlayerScraper.new('PL')

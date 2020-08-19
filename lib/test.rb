@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # require 'json'
 # hash1 = { first_person: { ber: 'ber', ket: 'ket' } }
 # bash = {}
@@ -30,9 +32,6 @@
 # p file = JSON.parse(File.read("test.json"))
 
 # p hash2[:ber]'
-
-
-
 
 require 'nokogiri'
 require 'open-uri'
