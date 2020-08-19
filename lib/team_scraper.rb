@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative './parser.rb'
 require_relative './file_handler'
 # require_relative './player_scraper'
@@ -48,7 +46,7 @@ class TeamScraper < Parser
 end
 
 url4 = 'https://fbref.com/en/comps/9/Premier-League-Stats'
-url5 = 'https://fbref.com/en/comps/12/La-Liga-Stats'
-url = './lib/test.html'
-url7 = 'https://fbref.com/en/squads/822bd0ba/Liverpool-Stats'
+# url5 = 'https://fbref.com/en/comps/12/La-Liga-Stats'
+# url = './lib/test.html'
+# url7 = 'https://fbref.com/en/squads/822bd0ba/Liverpool-Stats'
 TeamScraper.new(url4, 'PL')

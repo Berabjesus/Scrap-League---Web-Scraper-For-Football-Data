@@ -429,18 +429,18 @@
       "Nation": "POR",
       "Poition": "DF",
       "Age": "27",
-      "Matches_Played": "16",
-      "Starts": "16",
-      "Minutes": "1,306",
-      "Goals": "0",
-      "Assists": "1",
+      "Matches_Played": "5",
+      "Starts": "3",
+      "Minutes": "249",
+      "Goals": "1",
+      "Assists": "0",
       "PK": "0",
       "PK_Attempt": "0",
-      "Yellow_card": "1",
+      "Yellow_card": "0",
       "Red_card": "0",
-      "Goals_per_90mins": "0.00",
-      "Assist_per_90mins": "0.07",
-      "G_plus_A_per_90mins": "0.07"
+      "Goals_per_90mins": "0.36",
+      "Assist_per_90mins": "0.00",
+      "G_plus_A_per_90mins": "0.36"
     },
     "Pablo Marí": {
       "Nation": "ESP",
@@ -577,7 +577,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Aston Villa": {
     "Jack Grealish": {
       "Nation": "ENG",
       "Poition": "FW,MF",
@@ -956,14 +958,14 @@
       "Nation": "ENG",
       "Poition": "MF",
       "Age": "29",
-      "Matches_Played": "1",
-      "Starts": "1",
-      "Minutes": "58",
+      "Matches_Played": "4",
+      "Starts": "4",
+      "Minutes": "259",
       "Goals": "0",
       "Assists": "0",
       "PK": "0",
       "PK_Attempt": "0",
-      "Yellow_card": "0",
+      "Yellow_card": "1",
       "Red_card": "0",
       "Goals_per_90mins": "0.00",
       "Assist_per_90mins": "0.00",
@@ -1104,7 +1106,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Bournemouth": {
     "Aaron Ramsdale": {
       "Nation": "ENG",
       "Poition": "GK",
@@ -1631,7 +1635,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Brighton": {
     "Mathew Ryan": {
       "Nation": "AUS",
       "Poition": "GK",
@@ -1942,18 +1948,18 @@
       "Nation": "ENG",
       "Poition": "DF",
       "Age": "18",
-      "Matches_Played": "1",
-      "Starts": "0",
-      "Minutes": "32",
+      "Matches_Played": "8",
+      "Starts": "7",
+      "Minutes": "588",
       "Goals": "0",
-      "Assists": "0",
+      "Assists": "1",
       "PK": "0",
       "PK_Attempt": "0",
-      "Yellow_card": "0",
+      "Yellow_card": "2",
       "Red_card": "0",
       "Goals_per_90mins": "0.00",
-      "Assist_per_90mins": "0.00",
-      "G_plus_A_per_90mins": "0.00"
+      "Assist_per_90mins": "0.15",
+      "G_plus_A_per_90mins": "0.15"
     },
     "Ezequiel Schelotto": {
       "Nation": "ITA",
@@ -2124,7 +2130,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Burnley": {
     "Nick Pope": {
       "Nation": "ENG",
       "Poition": "GK",
@@ -2465,6 +2473,23 @@
       "Assist_per_90mins": "0.00",
       "G_plus_A_per_90mins": "0.00"
     },
+    "Danny Drinkwater": {
+      "Nation": "ENG",
+      "Poition": "MF",
+      "Age": "29",
+      "Matches_Played": "1",
+      "Starts": "1",
+      "Minutes": "58",
+      "Goals": "0",
+      "Assists": "0",
+      "PK": "0",
+      "PK_Attempt": "0",
+      "Yellow_card": "0",
+      "Red_card": "0",
+      "Goals_per_90mins": "0.00",
+      "Assist_per_90mins": "0.00",
+      "G_plus_A_per_90mins": "0.00"
+    },
     "Max Thompson": {
       "Nation": "ENG",
       "Poition": "FW",
@@ -2668,7 +2693,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Chelsea": {
     "César Azpilicueta": {
       "Nation": "ESP",
       "Poition": "DF",
@@ -3077,6 +3104,23 @@
       "Assist_per_90mins": "0.38",
       "G_plus_A_per_90mins": "0.75"
     },
+    "Tariq Lamptey": {
+      "Nation": "ENG",
+      "Poition": "DF",
+      "Age": "18",
+      "Matches_Played": "1",
+      "Starts": "0",
+      "Minutes": "32",
+      "Goals": "0",
+      "Assists": "0",
+      "PK": "0",
+      "PK_Attempt": "0",
+      "Yellow_card": "0",
+      "Red_card": "0",
+      "Goals_per_90mins": "0.00",
+      "Assist_per_90mins": "0.00",
+      "G_plus_A_per_90mins": "0.00"
+    },
     "Faustino Anjorin": {
       "Nation": "ENG",
       "Poition": "FW",
@@ -3161,7 +3205,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Crystal Palace": {
     "Wilfried Zaha": {
       "Nation": "CIV",
       "Poition": "MF,FW",
@@ -3525,16 +3571,16 @@
       "Age": "28",
       "Matches_Played": "5",
       "Starts": "2",
-      "Minutes": "291",
+      "Minutes": "177",
       "Goals": "1",
       "Assists": "0",
       "PK": "0",
       "PK_Attempt": "0",
       "Yellow_card": "0",
       "Red_card": "0",
-      "Goals_per_90mins": "0.31",
+      "Goals_per_90mins": "0.51",
       "Assist_per_90mins": "0.00",
-      "G_plus_A_per_90mins": "0.31"
+      "G_plus_A_per_90mins": "0.51"
     },
     "Connor Wickham": {
       "Nation": "ENG",
@@ -3705,7 +3751,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Everton": {
     "Jordan Pickford": {
       "Nation": "ENG",
       "Poition": "GK",
@@ -4063,6 +4111,23 @@
       "Assist_per_90mins": "0.00",
       "G_plus_A_per_90mins": "0.00"
     },
+    "Cenk Tosun": {
+      "Nation": "TUR",
+      "Poition": "FW",
+      "Age": "28",
+      "Matches_Played": "5",
+      "Starts": "2",
+      "Minutes": "291",
+      "Goals": "1",
+      "Assists": "0",
+      "PK": "0",
+      "PK_Attempt": "0",
+      "Yellow_card": "0",
+      "Red_card": "0",
+      "Goals_per_90mins": "0.31",
+      "Assist_per_90mins": "0.00",
+      "G_plus_A_per_90mins": "0.31"
+    },
     "Jean-Philippe Gbamin": {
       "Nation": "CIV",
       "Poition": "MF",
@@ -4215,7 +4280,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Leicester City": {
     "Kasper Schmeichel": {
       "Nation": "DEN",
       "Poition": "GK",
@@ -4560,14 +4627,14 @@
       "Nation": "ENG",
       "Poition": "DF",
       "Age": "29",
-      "Matches_Played": "11",
-      "Starts": "7",
-      "Minutes": "606",
+      "Matches_Played": "5",
+      "Starts": "3",
+      "Minutes": "331",
       "Goals": "0",
       "Assists": "0",
       "PK": "0",
       "PK_Attempt": "0",
-      "Yellow_card": "2",
+      "Yellow_card": "0",
       "Red_card": "0",
       "Goals_per_90mins": "0.00",
       "Assist_per_90mins": "0.00",
@@ -4674,7 +4741,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Liverpool": {
     "Virgil van Dijk": {
       "Nation": "NED",
       "Poition": "DF",
@@ -5167,7 +5236,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Manchester City": {
     "Ederson": {
       "Nation": "BRA",
       "Poition": "GK",
@@ -5626,7 +5697,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Manchester Utd": {
     "David de Gea": {
       "Nation": "ESP",
       "Poition": "GK",
@@ -6153,7 +6226,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Newcastle Utd": {
     "Martin Dúbravka": {
       "Nation": "SVK",
       "Poition": "GK",
@@ -6447,14 +6522,14 @@
       "Nation": "ENG",
       "Poition": "DF",
       "Age": "29",
-      "Matches_Played": "12",
+      "Matches_Played": "11",
       "Starts": "10",
-      "Minutes": "893",
+      "Minutes": "863",
       "Goals": "0",
       "Assists": "0",
       "PK": "0",
       "PK_Attempt": "0",
-      "Yellow_card": "5",
+      "Yellow_card": "2",
       "Red_card": "0",
       "Goals_per_90mins": "0.00",
       "Assist_per_90mins": "0.00",
@@ -6714,7 +6789,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Norwich City": {
     "Max Aarons": {
       "Nation": "ENG",
       "Poition": "DF",
@@ -7275,7 +7352,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Sheffield Utd": {
     "George Baldock": {
       "Nation": "ENG",
       "Poition": "DF",
@@ -7785,7 +7864,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Southampton": {
     "James Ward-Prowse": {
       "Nation": "ENG",
       "Poition": "MF,DF",
@@ -7973,6 +8054,23 @@
       "Assist_per_90mins": "0.00",
       "G_plus_A_per_90mins": "0.06"
     },
+    "Cédric Soares": {
+      "Nation": "POR",
+      "Poition": "DF",
+      "Age": "27",
+      "Matches_Played": "16",
+      "Starts": "16",
+      "Minutes": "1,306",
+      "Goals": "0",
+      "Assists": "1",
+      "PK": "0",
+      "PK_Attempt": "0",
+      "Yellow_card": "1",
+      "Red_card": "0",
+      "Goals_per_90mins": "0.00",
+      "Assist_per_90mins": "0.07",
+      "G_plus_A_per_90mins": "0.07"
+    },
     "Shane Long": {
       "Nation": "IRL",
       "Poition": "FW",
@@ -8096,14 +8194,14 @@
       "Nation": "ENG",
       "Poition": "DF",
       "Age": "22",
-      "Matches_Played": "3",
-      "Starts": "3",
-      "Minutes": "241",
+      "Matches_Played": "10",
+      "Starts": "7",
+      "Minutes": "703",
       "Goals": "0",
       "Assists": "0",
       "PK": "0",
       "PK_Attempt": "0",
-      "Yellow_card": "0",
+      "Yellow_card": "1",
       "Red_card": "0",
       "Goals_per_90mins": "0.00",
       "Assist_per_90mins": "0.00",
@@ -8295,7 +8393,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Tottenham": {
     "Toby Alderweireld": {
       "Nation": "BEL",
       "Poition": "DF",
@@ -8602,6 +8702,23 @@
       "Assist_per_90mins": "0.16",
       "G_plus_A_per_90mins": "0.33"
     },
+    "Danny Rose": {
+      "Nation": "ENG",
+      "Poition": "DF",
+      "Age": "29",
+      "Matches_Played": "12",
+      "Starts": "10",
+      "Minutes": "893",
+      "Goals": "0",
+      "Assists": "0",
+      "PK": "0",
+      "PK_Attempt": "0",
+      "Yellow_card": "5",
+      "Red_card": "0",
+      "Goals_per_90mins": "0.00",
+      "Assist_per_90mins": "0.00",
+      "G_plus_A_per_90mins": "0.00"
+    },
     "Steven Bergwijn": {
       "Nation": "NED",
       "Poition": "FW,MF",
@@ -8643,6 +8760,23 @@
       "Matches_Played": "6",
       "Starts": "4",
       "Minutes": "342",
+      "Goals": "0",
+      "Assists": "0",
+      "PK": "0",
+      "PK_Attempt": "0",
+      "Yellow_card": "0",
+      "Red_card": "0",
+      "Goals_per_90mins": "0.00",
+      "Assist_per_90mins": "0.00",
+      "G_plus_A_per_90mins": "0.00"
+    },
+    "Kyle Walker-Peters": {
+      "Nation": "ENG",
+      "Poition": "DF",
+      "Age": "22",
+      "Matches_Played": "3",
+      "Starts": "3",
+      "Minutes": "241",
       "Goals": "0",
       "Assists": "0",
       "PK": "0",
@@ -8839,7 +8973,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Watford": {
     "Ben Foster": {
       "Nation": "ENG",
       "Poition": "GK",
@@ -9349,7 +9485,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "West Ham": {
     "Declan Rice": {
       "Nation": "ENG",
       "Poition": "MF",
@@ -9961,7 +10099,9 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": ""
-    },
+    }
+  },
+  "Wolves": {
     "Conor Coady": {
       "Nation": "ENG",
       "Poition": "DF",
@@ -10182,6 +10322,23 @@
       "Goals_per_90mins": "0.29",
       "Assist_per_90mins": "0.29",
       "G_plus_A_per_90mins": "0.58"
+    },
+    "Ryan Bennett": {
+      "Nation": "ENG",
+      "Poition": "DF",
+      "Age": "29",
+      "Matches_Played": "11",
+      "Starts": "7",
+      "Minutes": "606",
+      "Goals": "0",
+      "Assists": "0",
+      "PK": "0",
+      "PK_Attempt": "0",
+      "Yellow_card": "2",
+      "Red_card": "0",
+      "Goals_per_90mins": "0.00",
+      "Assist_per_90mins": "0.00",
+      "G_plus_A_per_90mins": "0.00"
     },
     "Rúben Vinagre": {
       "Nation": "POR",

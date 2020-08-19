@@ -1,14 +1,14 @@
-require 'json'
-hash1 ={first_person: {ber: 'ber', ket: 'ket'}}
-bash = {}
-hash2 ={ber: 'ber', ket: 'ket'}
+# require 'json'
+# hash1 = { first_person: { ber: 'ber', ket: 'ket' } }
+# bash = {}
+# hash2 = { ber: 'beqqr', ket: 'qqket' }
 
 # arr = JSON.parse(File.read("test.json"))
 # arr << hash
-# 
-filename = 'test.json'
+#
+# filename = 'test.json'
 
-hash ={sec_person: { "first_name" => "john", "last_name" => "doe" }}
+# hash = { sec_person: { 'first_name' => 'john', 'last_name' => 'doe' } }
 
 # array = JSON.parse(File.read(filename))
 # array << hash
@@ -29,5 +29,4 @@ hash ={sec_person: { "first_name" => "john", "last_name" => "doe" }}
 
 # p file = JSON.parse(File.read("test.json"))
 
-
-p hash2.first.last
+# p hash2[:ber]

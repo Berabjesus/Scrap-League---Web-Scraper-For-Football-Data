@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative './parser.rb'
 require_relative './file_handler.rb'
 
@@ -27,8 +25,6 @@ class PlayerScraper < Parser
   def initialize(league)
     @league = league
     @url_hash = {}
-    @players_outter_hash = {}
-    @players_inner_hash = {}
     add_clubs_url
   end
 
@@ -41,19 +37,21 @@ class PlayerScraper < Parser
   end
 
   def parse_players
-    @url_hash.each do |team_name,url|
+    @url_hash.each do |team_name, url|
       @url = url
       parsed_url = parse
       table_rows = parsed_url.at('tbody').css('tr')
-      @players_outter_hash[@url_hash.first.first] = {}
+      players_outter_hash = {}
+      players_outter_hash[team_name] = {}
+      players_inner_hash = {}
       table_rows.length.times do |i|
-        @players_inner_hash[table_rows[i].css('th').text.strip] = {}
+        players_inner_hash[table_rows[i].css('th').text.strip] = {}
         PLAYER_STAT_TYPE.length.times do |j|
-          @players_inner_hash[table_rows[i].css('th').text.strip].merge!( PLAYER_STAT_TYPE[j] => table_rows[i].css('td')[j].text.gsub(/[[:lower:]]+/, '').strip)
+          players_inner_hash[table_rows[i].css('th').text.strip].merge!(PLAYER_STAT_TYPE[j] => table_rows[i].css('td')[j].text.gsub(/[[:lower:]]+/, '').strip)
         end
-        @players_outter_hash[@url_hash.first.first].merge!(@players_inner_hash).to_h
+        players_outter_hash[team_name].merge!(players_inner_hash)
       end
-      FileHandler.new(@players_outter_hash, @league).players_to_json
+      FileHandler.new(players_outter_hash, @league).players_to_json
     end
   end
 end
