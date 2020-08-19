@@ -2,6 +2,7 @@
 require_relative './constants.rb'
 require_relative './parser.rb'
 require_relative './file_handler.rb'
+require_relative './players_rating.rb'
 
 class PlayerScraper < Parser
   DIR_TYPE = 'CLUBS'
@@ -27,9 +28,9 @@ class PlayerScraper < Parser
       @url = url
       parsed_url = parse
       parsed_url.xpath('//comment()').each { |comment| comment.replace(comment.text) }
-      p "scrappin for --- #{team_name}"
       scrap_players(parsed_url, team_name)
     end
+    PlayersRating.new
   end
 
   def scrap_players(parsed_url, team_name)
@@ -66,4 +67,4 @@ class PlayerScraper < Parser
   end
 end
 # league = ['Bundesliga', 'La liga', 'Ligue 1', 'PL', 'Seari A']
-PlayerScraper.new('La Liga')
+# PlayerScraper.new('La Liga')

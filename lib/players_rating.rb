@@ -37,5 +37,3 @@ class PlayersRating
     attrib.merge!('Defender_rating' => defender_rating)
   end
 end
-
-PlayersRating.new

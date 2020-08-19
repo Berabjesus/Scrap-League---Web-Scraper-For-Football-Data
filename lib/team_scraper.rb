@@ -6,7 +6,7 @@ require_relative './file_handler'
 class TeamScraper < Parser
   def initialize(url, league)
     @url = url
-    @league = league
+    @league = league.to_s
     @team_hash = {}
     parse_teams
   end
@@ -28,5 +28,5 @@ class TeamScraper < Parser
   end
 end
 
-# Spain_La_Liga =  'https://fbref.com/en/comps/13/3243/2019-2020-Ligue-1-Stats'
+# Spain_La_Liga =  'https://fbref.com/en/comps/12/La-Liga-Stats'
 # TeamScraper.new(Spain_La_Liga, 'La Liga')

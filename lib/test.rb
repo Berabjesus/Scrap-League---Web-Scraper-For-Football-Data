@@ -41,6 +41,10 @@
 # file.xpath('//comment()').each { |comment| comment.replace(comment.text) }
 # p file.inner_html
 
-hash = { 'ber' => 'vv', 'ter' => 'oo' }
+# hash = { 'ber' => 'vv', 'ter' => 'oo' }
 
-p hash['bery']
+# p hash['bery']
+
+hash = {ber: 'er'}
+
+p hash.first.first.to_s
