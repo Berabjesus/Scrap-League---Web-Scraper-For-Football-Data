@@ -45,6 +45,10 @@
 
 # p hash['bery']
 
-hash = {ber: 'er'}
+hash1 = { first_person: { ber: 'ber', ket: 'ket' } }
+def write(file_name, arr, subject)
+  File.write(file_name, arr.first)
+  puts "#{file_name} file is created at the root directory with #{arr.length - 1} #{subject}."
+end
 
-p hash.first.first.to_s
+write('udacity_courses.csv', hash1, 'courses')

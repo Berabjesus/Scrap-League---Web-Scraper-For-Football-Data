@@ -11,21 +11,76 @@ class InterfaceDataControl
   def league_data_options(user_input)
     case user_input
     when 1
-     league = CLUB_WEBSITE.keys[user_input - 1]
+      @league = CLUB_WEBSITE.keys[user_input - 1]
     when 2
-      league = CLUB_WEBSITE.keys[user_input - 1]
+      @league = CLUB_WEBSITE.keys[user_input - 1]
     when 3
-      league = CLUB_WEBSITE.keys[user_input - 1]
+      @league = CLUB_WEBSITE.keys[user_input - 1]
     when 4
-      league = CLUB_WEBSITE.keys[user_input - 1]
+      @league = CLUB_WEBSITE.keys[user_input - 1]
     when 5
-      league = CLUB_WEBSITE.keys[user_input - 1]
-     else
+      @league = CLUB_WEBSITE.keys[user_input - 1]
+    else
       return false
     end
-    league
+    # call_team_scraper
+    # call_player_scraper
+    suggest_best_xi(4 , 4 , 2)
   end
 
+  private
+
+  def call_team_scraper
+    url = CLUB_WEBSITE[@league.to_s]
+    TeamScraper.new(url, @league.to_s)
+    clear_screen
+  end
+
+  def call_player_scraper
+    PlayerScraper.new(@league.to_s)
+    clear_screen
+  end
+
+  def suggest_best_xi(defn, mid, att)
+    @players = gets_player_hash
+    @players.values.class
+    att_hash = {}
+    mid_hash = {}
+    def_hash = {}
+    gk_hash = {}
+    @players.each do |_club, player|
+      player.each do |player_name, attrib|
+        att_hash.merge!(player_name => attrib['Attacker_rating']) if attrib['Position'].include? 'FW'
+        mid_hash.merge!(player_name => attrib['Assists']) if attrib['Position'].include? 'MF'
+        def_hash.merge!(player_name => attrib['Defender_rating']) if attrib['Position'].include? 'DF'
+        gk_hash.merge!(player_name => attrib['Goal_keeper_rating']) if attrib['Position'].include? 'GK'
+      end
+    end
+    att_hash = att_hash.sort_by {|key,value| value}.reverse!
+    mid_hash = mid_hash.sort_by {|key,value| value}.reverse!
+    def_hash = def_hash.sort_by {|key,value| value}.reverse!
+    gk_hash = gk_hash.sort_by {|key,value| value}.reverse!
+    puts "\t\t\t\t#{gk_hash[0]}"
+    defn.times { |i| print "#{def_hash[i]} -"}
+    puts "\n\n"
+    mid.times { |i| print "#{mid_hash[i]} -"}
+    puts "\n\n"
+    att.times { |i| print "#{att_hash[i]} -"}
+
+  end
+
+  def gets_league_hash
+    @league = FileHandler.file_reader('CLUBS', @league.to_s)
+  end
+
+  def gets_player_hash
+    @players = FileHandler.file_reader('PLAYERS', "#{PLAYERS_DIR}#{@league}_Players.json")
+  end
+
+  def clear_screen
+    system 'cls'
+    system 'clear'
+  end
 end
 
-InterfaceDataControl.new.league_data_options(gets.chomp.to_i)
+# InterfaceDataControl.new.league_data_options(gets.chomp.to_i)

@@ -3,8 +3,10 @@ require_relative './constants.rb'
 require_relative './parser.rb'
 require_relative './file_handler.rb'
 require_relative './players_rating.rb'
+require_relative './show_status.rb'
 
 class PlayerScraper < Parser
+  include ShowStatus
   DIR_TYPE = 'CLUBS'
   SITE = 'https://fbref.com'
   def initialize(league)
@@ -28,6 +30,7 @@ class PlayerScraper < Parser
       @url = url
       parsed_url = parse
       parsed_url.xpath('//comment()').each { |comment| comment.replace(comment.text) }
+      print_team_node(team_name)
       scrap_players(parsed_url, team_name)
     end
     PlayersRating.new
@@ -66,5 +69,6 @@ class PlayerScraper < Parser
     string.gsub(/[[:lower:]]+/, '').strip
   end
 end
+
 # league = ['Bundesliga', 'La liga', 'Ligue 1', 'PL', 'Seari A']
 # PlayerScraper.new('La Liga')
