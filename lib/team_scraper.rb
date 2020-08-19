@@ -1,27 +1,9 @@
 # frozen_string_literal: true
-
+require_relative './constants.rb'
 require_relative './parser.rb'
 require_relative './file_handler'
-# require_relative './player_scraper'
-require 'json'
 
 class TeamScraper < Parser
-  TEAM_STAT_TYPE = %i[
-    name
-    Matches_Played
-    Win
-    Draw
-    Lost
-    GF
-    GA
-    GDiff
-    points
-    XG
-    XGA
-    XGDiff
-    XGDiff_90
-    url
-  ].freeze
   def initialize(url, league)
     @url = url
     @league = league
@@ -43,13 +25,8 @@ class TeamScraper < Parser
     end
     @team_hash = @team_hash.sort_by { |club_name, _attrib| club_name }.to_h
     FileHandler.new(@team_hash, @league).teams_to_json
-    # PlayerScraper.new(@league).clubs_url
   end
 end
 
-url4 = 'https://fbref.com/en/comps/9/Premier-League-Stats'
-url5 = 'https://fbref.com/en/comps/13/3243/2019-2020-Ligue-1-Stats' 
-url6 = 'https://fbref.com/en/comps/20/Bundesliga-Stats'
-url7 = 'https://fbref.com/en/comps/11/Serie-A-Stats'
-url8 = 'https://fbref.com/en/comps/12/La-Liga-Stats'
-TeamScraper.new(url5, 'Lige 1')
+# Spain_La_Liga =  'https://fbref.com/en/comps/13/3243/2019-2020-Ligue-1-Stats'
+# TeamScraper.new(Spain_La_Liga, 'La Liga')

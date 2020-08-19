@@ -1,9 +1,8 @@
 # frozen_string_literal: true
 
+require_relative './constants.rb'
 require 'json'
 class FileHandler
-  TEAM_DIR = '../docs/clubs/'
-  PLAYERS_DIR = '../docs/players/'
   def initialize(hash, file_name)
     @hash = hash
     @file_name = file_name
@@ -11,7 +10,7 @@ class FileHandler
 
   def teams_to_json
     dir_maker(TEAM_DIR)
-    File.write("#{TEAM_DIR}#{@file_name}.json", JSON.dump(@hash))
+    File.write("#{TEAM_DIR}#{@file_name}.json", JSON.pretty_generate(@hash))
   end
 
   def players_to_json
@@ -21,9 +20,9 @@ class FileHandler
     if File.file?("#{PLAYERS_DIR}#{players_file_name}") && File.read("#{PLAYERS_DIR}#{players_file_name}") != ''
       file = JSON.parse(File.read("#{PLAYERS_DIR}#{players_file_name}"))
       file.merge!(@hash)
-      File.write("#{PLAYERS_DIR}#{players_file_name}", JSON.dump(file))
+      File.write("#{PLAYERS_DIR}#{players_file_name}", JSON.pretty_generate(file))
     else
-      File.write("#{PLAYERS_DIR}#{players_file_name}", JSON.dump(@hash))
+      File.write("#{PLAYERS_DIR}#{players_file_name}", JSON.pretty_generate(@hash))
     end
   end
 
@@ -37,10 +36,8 @@ class FileHandler
   end
 
   def self.access_all_players_files
-    # p Dir["#{PLAYERS_DIR}*.json"]
-    Dir["../docs/players/*"]
+    Dir["#{PLAYERS_DIR}*.json"]
   end
 end
 
-
-FileHandler.access_all_players_files
+# FileHandler.new({ber: 'ber'}, 'La Liga').teams_to_json

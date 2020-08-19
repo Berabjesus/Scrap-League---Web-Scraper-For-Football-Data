@@ -4,7 +4,6 @@ require 'nokogiri'
 require 'open-uri'
 
 class Parser
-  
   private
 
   def parse(arg = nil)

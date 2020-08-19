@@ -81,7 +81,8 @@
       "Save_%": ".776",
       "Clean_sheet": "7",
       "Attacker_rating": 0.0,
-      "Defender_rating": -8.0
+      "Defender_rating": -8.0,
+      "Goal_keeper_rating": 109
     },
     "Granit Xhaka": {
       "Nation": "SUI",
@@ -528,7 +529,8 @@
       "Save_%": ".810",
       "Clean_sheet": "3",
       "Attacker_rating": 0.0,
-      "Defender_rating": -20.0
+      "Defender_rating": -20.0,
+      "Goal_keeper_rating": 102
     },
     "Eddie Nketiah": {
       "Nation": "ENG",
@@ -800,7 +802,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Konstantinos Mavropanos": {
       "Nation": "GRE",
@@ -1150,7 +1153,8 @@
       "Save_%": ".677",
       "Clean_sheet": "4",
       "Attacker_rating": 0.0,
-      "Defender_rating": 1.0
+      "Defender_rating": 1.0,
+      "Goal_keeper_rating": 73
     },
     "Marvelous Nakamba": {
       "Nation": "ZIM",
@@ -1285,7 +1289,8 @@
       "Save_%": ".640",
       "Clean_sheet": "2",
       "Attacker_rating": 0.0,
-      "Defender_rating": -19.0
+      "Defender_rating": -19.0,
+      "Goal_keeper_rating": 64
     },
     "Neil Taylor": {
       "Nation": "WAL",
@@ -1394,7 +1399,8 @@
       "Save_%": ".538",
       "Clean_sheet": "1",
       "Attacker_rating": 0.0,
-      "Defender_rating": -9.0
+      "Defender_rating": -9.0,
+      "Goal_keeper_rating": 52
     },
     "Keinan Davis": {
       "Nation": "ENG",
@@ -1529,7 +1535,8 @@
       "Save_%": "",
       "Clean_sheet": "0",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Jonathan Kodjia": {
       "Nation": "CIV",
@@ -1664,7 +1671,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     }
   },
   "Bournemouth": {
@@ -1697,7 +1705,8 @@
       "Save_%": ".678",
       "Clean_sheet": "5",
       "Attacker_rating": 0.3,
-      "Defender_rating": -20.0
+      "Defender_rating": -20.0,
+      "Goal_keeper_rating": 56
     },
     "Callum Wilson": {
       "Nation": "ENG",
@@ -2326,7 +2335,8 @@
       "Save_%": ".400",
       "Clean_sheet": "0",
       "Attacker_rating": 0.0,
-      "Defender_rating": -10.0
+      "Defender_rating": -10.0,
+      "Goal_keeper_rating": 37
     },
     "Jordon Ibe": {
       "Nation": "ENG",
@@ -2397,7 +2407,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Mihai Dobre": {
       "Nation": "ROU",
@@ -2487,7 +2498,8 @@
       "Save_%": ".683",
       "Clean_sheet": "9",
       "Attacker_rating": 0.0,
-      "Defender_rating": -36.0
+      "Defender_rating": -36.0,
+      "Goal_keeper_rating": 104
     },
     "Lewis Dunk": {
       "Nation": "ENG",
@@ -3168,7 +3180,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Alexander Cochrane": {
       "Nation": "ENG",
@@ -3220,7 +3233,8 @@
       "Save_%": ".711",
       "Clean_sheet": "15",
       "Attacker_rating": 0.0,
-      "Defender_rating": -8.0
+      "Defender_rating": -8.0,
+      "Goal_keeper_rating": 171
     },
     "James Tarkowski": {
       "Nation": "ENG",
@@ -3880,7 +3894,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Lukas Jensen": {
       "Nation": "DEN",
@@ -3899,7 +3914,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Ali Koiki": {
       "Nation": "ENG",
@@ -3956,7 +3972,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Bobby Thomas": {
       "Nation": "",
@@ -4034,7 +4051,8 @@
       "Save_%": ".545",
       "Clean_sheet": "8",
       "Attacker_rating": 0.0,
-      "Defender_rating": -18.0
+      "Defender_rating": -18.0,
+      "Goal_keeper_rating": 88
     },
     "Mason Mount": {
       "Nation": "ENG",
@@ -4533,7 +4551,8 @@
       "Save_%": ".563",
       "Clean_sheet": "1",
       "Attacker_rating": 0.0,
-      "Defender_rating": 1.0
+      "Defender_rating": 1.0,
+      "Goal_keeper_rating": 59
     },
     "Ruben Loftus-Cheek": {
       "Nation": "ENG",
@@ -4857,7 +4876,8 @@
       "Save_%": ".714",
       "Clean_sheet": "10",
       "Attacker_rating": 0.0,
-      "Defender_rating": -20.0
+      "Defender_rating": -20.0,
+      "Goal_keeper_rating": 129
     },
     "Cheikhou Kouyaté": {
       "Nation": "SEN",
@@ -5278,7 +5298,8 @@
       "Save_%": ".636",
       "Clean_sheet": "0",
       "Attacker_rating": 0.0,
-      "Defender_rating": 1.0
+      "Defender_rating": 1.0,
+      "Goal_keeper_rating": 56
     },
     "Tyrick Mitchell": {
       "Nation": "ENG",
@@ -5465,7 +5486,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Nya Kirby": {
       "Nation": "ENG",
@@ -5574,7 +5596,8 @@
       "Save_%": ".634",
       "Clean_sheet": "9",
       "Attacker_rating": 0.0,
-      "Defender_rating": -8.0
+      "Defender_rating": -8.0,
+      "Goal_keeper_rating": 97
     },
     "Richarlison": {
       "Nation": "BRA",
@@ -6229,7 +6252,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Cuco Martina": {
       "Nation": "CUW",
@@ -6286,7 +6310,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "João Virgínia": {
       "Nation": "POR",
@@ -6305,7 +6330,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     }
   },
   "Leicester City": {
@@ -6338,7 +6364,8 @@
       "Save_%": ".738",
       "Clean_sheet": "13",
       "Attacker_rating": 0.0,
-      "Defender_rating": -10.0
+      "Defender_rating": -10.0,
+      "Goal_keeper_rating": 163
     },
     "Jonny Evans": {
       "Nation": "NIR",
@@ -6993,7 +7020,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     }
   },
   "Liverpool": {
@@ -7208,7 +7236,8 @@
       "Save_%": ".722",
       "Clean_sheet": "13",
       "Attacker_rating": 0.4,
-      "Defender_rating": -7.0
+      "Defender_rating": -7.0,
+      "Goal_keeper_rating": 179
     },
     "Jordan Henderson": {
       "Nation": "ENG",
@@ -7369,7 +7398,8 @@
       "Save_%": ".643",
       "Clean_sheet": "2",
       "Attacker_rating": 0.0,
-      "Defender_rating": -20.0
+      "Defender_rating": -20.0,
+      "Goal_keeper_rating": 74
     },
     "Naby Keïta": {
       "Nation": "GUI",
@@ -7686,7 +7716,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Andy Lonergan": {
       "Nation": "IRL",
@@ -7705,7 +7736,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Nathaniel Phillips": {
       "Nation": "ENG",
@@ -7757,7 +7789,8 @@
       "Save_%": ".728",
       "Clean_sheet": "16",
       "Attacker_rating": 0.0,
-      "Defender_rating": -34.0
+      "Defender_rating": -34.0,
+      "Goal_keeper_rating": 205
     },
     "Kevin De Bruyne": {
       "Nation": "BEL",
@@ -8308,7 +8341,8 @@
       "Save_%": ".533",
       "Clean_sheet": "1",
       "Attacker_rating": 0.0,
-      "Defender_rating": -10.0
+      "Defender_rating": -10.0,
+      "Goal_keeper_rating": 56
     },
     "Thomas Doyle": {
       "Nation": "ENG",
@@ -8379,7 +8413,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Taylor Harwood-Bellis": {
       "Nation": "ENG",
@@ -8450,7 +8485,8 @@
       "Save_%": ".736",
       "Clean_sheet": "13",
       "Attacker_rating": 0.0,
-      "Defender_rating": -19.0
+      "Defender_rating": -19.0,
+      "Goal_keeper_rating": 168
     },
     "Harry Maguire": {
       "Nation": "ENG",
@@ -9197,7 +9233,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Sergio Romero": {
       "Nation": "ARG",
@@ -9216,7 +9253,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     }
   },
   "Newcastle Utd": {
@@ -9249,7 +9287,8 @@
       "Save_%": ".705",
       "Clean_sheet": "11",
       "Attacker_rating": 0.0,
-      "Defender_rating": -28.0
+      "Defender_rating": -28.0,
+      "Goal_keeper_rating": 123
     },
     "Miguel Almirón": {
       "Nation": "PAR",
@@ -9989,7 +10028,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Rob Elliot": {
       "Nation": "IRL",
@@ -10008,7 +10048,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Liam Gibson": {
       "Nation": "ENG",
@@ -10105,7 +10146,8 @@
       "Save_%": ".656",
       "Clean_sheet": "5",
       "Attacker_rating": 0.0,
-      "Defender_rating": -8.0
+      "Defender_rating": -8.0,
+      "Goal_keeper_rating": 48
     },
     "Teemu Pukki": {
       "Nation": "FIN",
@@ -10682,7 +10724,8 @@
       "Save_%": ".455",
       "Clean_sheet": "0",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 40
     },
     "Ralf Fährmann": {
       "Nation": "GER",
@@ -10713,7 +10756,8 @@
       "Save_%": "1.000",
       "Clean_sheet": "0",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 99
     },
     "Dennis Srbeny": {
       "Nation": "GER",
@@ -10900,7 +10944,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     }
   },
   "Sheffield Utd": {
@@ -11037,7 +11082,8 @@
       "Save_%": ".752",
       "Clean_sheet": "13",
       "Attacker_rating": 0.0,
-      "Defender_rating": 3.0
+      "Defender_rating": 3.0,
+      "Goal_keeper_rating": 172
     },
     "John Egan": {
       "Nation": "IRL",
@@ -11458,7 +11504,8 @@
       "Save_%": ".500",
       "Clean_sheet": "0",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 44
     },
     "Richairo Živković": {
       "Nation": "NED",
@@ -11607,7 +11654,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Panagiotis Retsos": {
       "Nation": "GRE",
@@ -11664,7 +11712,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     }
   },
   "Southampton": {
@@ -11853,7 +11902,8 @@
       "Save_%": ".691",
       "Clean_sheet": "7",
       "Attacker_rating": 0.0,
-      "Defender_rating": -20.0
+      "Defender_rating": -20.0,
+      "Goal_keeper_rating": 104
     },
     "Jack Stephens": {
       "Nation": "ENG",
@@ -12092,7 +12142,8 @@
       "Save_%": ".566",
       "Clean_sheet": "2",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 52
     },
     "Yan Valery": {
       "Nation": "FRA",
@@ -12364,7 +12415,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Alexandre Jankewitz": {
       "Nation": "SUI",
@@ -12402,7 +12454,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Jacob Maddox": {
       "Nation": "ENG",
@@ -12707,7 +12760,8 @@
       "Save_%": ".796",
       "Clean_sheet": "6",
       "Attacker_rating": 0.0,
-      "Defender_rating": -18.0
+      "Defender_rating": -18.0,
+      "Goal_keeper_rating": 119
     },
     "Jan Vertonghen": {
       "Nation": "BEL",
@@ -12764,7 +12818,8 @@
       "Save_%": ".709",
       "Clean_sheet": "2",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 65
     },
     "Ben Davies": {
       "Nation": "WAL",
@@ -13225,7 +13280,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Dennis Cirken": {
       "Nation": "IRL",
@@ -13263,7 +13319,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Harvey White": {
       "Nation": "ENG",
@@ -13301,7 +13358,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     }
   },
   "Watford": {
@@ -13334,7 +13392,8 @@
       "Save_%": ".663",
       "Clean_sheet": "9",
       "Attacker_rating": 0.0,
-      "Defender_rating": -18.0
+      "Defender_rating": -18.0,
+      "Goal_keeper_rating": 92
     },
     "Abdoulaye Doucouré": {
       "Nation": "FRA",
@@ -14022,7 +14081,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Adalberto Peñaranda": {
       "Nation": "VEN",
@@ -14249,7 +14309,8 @@
       "Save_%": ".684",
       "Clean_sheet": "5",
       "Attacker_rating": 0.0,
-      "Defender_rating": -17.0
+      "Defender_rating": -17.0,
+      "Goal_keeper_rating": 84
     },
     "Sébastien Haller": {
       "Nation": "FRA",
@@ -14566,7 +14627,8 @@
       "Save_%": ".686",
       "Clean_sheet": "0",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 52
     },
     "Pablo Zabaleta": {
       "Nation": "ARG",
@@ -14649,7 +14711,8 @@
       "Save_%": ".700",
       "Clean_sheet": "2",
       "Attacker_rating": 0.0,
-      "Defender_rating": -10.0
+      "Defender_rating": -10.0,
+      "Goal_keeper_rating": 84
     },
     "Ben Johnson": {
       "Nation": "ENG",
@@ -14732,7 +14795,8 @@
       "Save_%": ".556",
       "Clean_sheet": "0",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 51
     },
     "Carlos Sánchez": {
       "Nation": "COL",
@@ -14855,7 +14919,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     },
     "Gonçalo Cardoso": {
       "Nation": "POR",
@@ -15028,7 +15093,8 @@
       "Save_%": ".675",
       "Clean_sheet": "13",
       "Attacker_rating": 0.0,
-      "Defender_rating": -7.0
+      "Defender_rating": -7.0,
+      "Goal_keeper_rating": 158
     },
     "Raúl Jiménez": {
       "Nation": "MEX",
@@ -15674,7 +15740,8 @@
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
       "Attacker_rating": 0.0,
-      "Defender_rating": 0.0
+      "Defender_rating": 0.0,
+      "Goal_keeper_rating": 0
     }
   }
 }
