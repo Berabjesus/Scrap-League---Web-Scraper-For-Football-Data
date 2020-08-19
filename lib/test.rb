@@ -33,10 +33,15 @@
 
 # p hash2[:ber]'
 
-require 'nokogiri'
-require 'open-uri'
+# require 'nokogiri'
+# require 'open-uri'
 
-file = Nokogiri::HTML(URI.open('test.html'))
-# file.xpath('//comment()').remove
-file.xpath('//comment()').each { |comment| comment.replace(comment.text) }
-p file.inner_html
+# file = Nokogiri::HTML(URI.open('test.html'))
+# # file.xpath('//comment()').remove
+# file.xpath('//comment()').each { |comment| comment.replace(comment.text) }
+# p file.inner_html
+
+
+hash = {'ber' => 'vv', 'ter' => 'oo'}
+
+p hash['bery']

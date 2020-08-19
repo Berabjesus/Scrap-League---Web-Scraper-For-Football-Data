@@ -6,7 +6,7 @@ require_relative './file_handler.rb'
 class PlayerScraper < Parser
   PLAYER_ATT_ATTRIB = %i[
     Nation
-    Poition
+    Position
     Age
     Matches_Played
     Starts
@@ -40,7 +40,7 @@ class PlayerScraper < Parser
   ].freeze
   PLAYER_GK_SELECTED_INDEX = [6, 7, 9, 10, 14].freeze
   SITE = 'https://fbref.com'
-  CLUB = 'CLUBS'
+  DIR_TYPE = 'CLUBS'
 
   def initialize(league)
     @league = league
@@ -48,8 +48,10 @@ class PlayerScraper < Parser
     add_clubs_url
   end
 
+  private
+
   def add_clubs_url
-    team_json_file = FileHandler.file_reader(CLUB, @league)
+    team_json_file = FileHandler.file_reader(DIR_TYPE, @league)
     team_json_file.each do |club, attrib|
       @url_hash.merge!(club => SITE + attrib['url'])
     end
@@ -91,7 +93,7 @@ class PlayerScraper < Parser
       end
       players_outter_hash[team_name].merge!(players_inner_hash)
     end
-    FileHandler.new(players_outter_hash, @league).players_to_json
+    FileHandler.new(players_outter_hash, "#{@league}_Players").players_to_json
   end
 
   def text_cleaner(string)
