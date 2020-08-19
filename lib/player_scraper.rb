@@ -4,7 +4,7 @@ require_relative './parser.rb'
 require_relative './file_handler.rb'
 
 class PlayerScraper < Parser
-  PLAYER_ATT_STAT = %i[
+  PLAYER_ATT_ATTRIB = %i[
     Nation
     Poition
     Age
@@ -21,7 +21,7 @@ class PlayerScraper < Parser
     Assist_per_90mins
     G_plus_A_per_90mins
   ].freeze
-  PLAYER_DEF_STAT = %i[
+  PLAYER_DEF_ATTRIB = %i[
     Tackles
     Tackles_won
     Blocks
@@ -31,7 +31,7 @@ class PlayerScraper < Parser
     Errors
   ].freeze
   PLAYER_DEF_SELECTED_INDEX = [4, 5, 19, 23, 24, 25, 26].freeze
-  PLAYER_GK_STAT = %i[
+  PLAYER_GK_ATTRIB = %i[
     Goals_conceded
     Goals_conceded_90
     Saves
@@ -74,19 +74,19 @@ class PlayerScraper < Parser
     players_inner_hash = {}
     table_rows_attack.length.times do |i|
       inner_hash = players_inner_hash[table_rows_attack[i].css('th').text.strip] = {}
-      PLAYER_ATT_STAT.length.times do |j|
-        inner_hash.merge!(PLAYER_ATT_STAT[j] => text_cleaner(table_rows_attack[i].css('td')[j].text))
+      PLAYER_ATT_ATTRIB.length.times do |j|
+        inner_hash.merge!(PLAYER_ATT_ATTRIB[j] => text_cleaner(table_rows_attack[i].css('td')[j].text))
       end
       if !table_rows_defence[i].nil? && (table_rows_attack[i].css('th').text.strip == table_rows_defence[i].css('th').text.strip)
         PLAYER_DEF_SELECTED_INDEX.each_with_index do |k, l|
-          inner_hash.merge!(PLAYER_DEF_STAT[l] => table_rows_defence[i].css('td')[k].text)
+          inner_hash.merge!(PLAYER_DEF_ATTRIB[l] => table_rows_defence[i].css('td')[k].text)
         end
       end
       table_rows_gk.length.times do |m|
         next unless table_rows_attack[i].css('th').text.strip == table_rows_gk[m].css('th').text.strip
 
         PLAYER_GK_SELECTED_INDEX.each_with_index do |k, l|
-          inner_hash.merge!(PLAYER_GK_STAT[l] => table_rows_gk[m].css('td')[k].text)
+          inner_hash.merge!(PLAYER_GK_ATTRIB[l] => table_rows_gk[m].css('td')[k].text)
         end
       end
       players_outter_hash[team_name].merge!(players_inner_hash)
