@@ -2,8 +2,8 @@
 
 require 'json'
 class FileHandler
-  TEAM_DIR = './docs/clubs/'
-  PLAYERS_DIR = './docs/players/'
+  TEAM_DIR = '../docs/clubs/'
+  PLAYERS_DIR = '../docs/players/'
   def initialize(hash, file_name)
     @hash = hash
     @file_name = file_name
@@ -37,7 +37,10 @@ class FileHandler
   end
 
   def self.access_all_players_files
-    Dir["#{PLAYERS_DIR}**/*.json"]
+    # p Dir["#{PLAYERS_DIR}*.json"]
+    Dir["../docs/players/*"]
   end
-
 end
+
+
+FileHandler.access_all_players_files

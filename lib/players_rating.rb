@@ -11,6 +11,7 @@ class PlayersRating
 
   def initialize
     @players_file_array = FileHandler.access_all_players_files
+    p @players_file_array
     @file_name = nil
     filter_file_names
   end
@@ -18,6 +19,7 @@ class PlayersRating
   def filter_file_names
     @players_file_array.length.times do |i|
       @file_name = @players_file_array[i]
+      p "rating for --- #{@file_name}"
       filter_players(FileHandler.file_reader(DIR_TYPE, @file_name))
     end
   end

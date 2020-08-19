@@ -63,6 +63,7 @@ class PlayerScraper < Parser
       @url = url
       parsed_url = parse
       parsed_url.xpath('//comment()').each { |comment| comment.replace(comment.text) }
+      p "scrappin for --- #{team_name}"
       scrap_players(parsed_url, team_name)
     end
   end
@@ -100,5 +101,5 @@ class PlayerScraper < Parser
     string.gsub(/[[:lower:]]+/, '').strip
   end
 end
-
+league = ['Bundesliga', 'La liga', 'Ligue 1', 'PL', 'Seari A']
 PlayerScraper.new('PL')

@@ -48,7 +48,8 @@ class TeamScraper < Parser
 end
 
 url4 = 'https://fbref.com/en/comps/9/Premier-League-Stats'
-# url5 = 'https://fbref.com/en/comps/12/La-Liga-Stats'
-# url = './lib/test.html'
-# url7 = 'https://fbref.com/en/squads/822bd0ba/Liverpool-Stats'
-TeamScraper.new(url4, 'PL')
+url5 = 'https://fbref.com/en/comps/13/3243/2019-2020-Ligue-1-Stats' 
+url6 = 'https://fbref.com/en/comps/20/Bundesliga-Stats'
+url7 = 'https://fbref.com/en/comps/11/Serie-A-Stats'
+url8 = 'https://fbref.com/en/comps/12/La-Liga-Stats'
+TeamScraper.new(url5, 'Lige 1')

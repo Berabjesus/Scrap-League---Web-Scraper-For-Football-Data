@@ -2,7 +2,7 @@
   "Arsenal": {
     "Pierre-Emerick Aubameyang": {
       "Nation": "GAB",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "30",
       "Matches_Played": "36",
       "Starts": "35",
@@ -28,7 +28,7 @@
     },
     "David Luiz": {
       "Nation": "BRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "32",
       "Matches_Played": "33",
       "Starts": "32",
@@ -54,7 +54,7 @@
     },
     "Bernd Leno": {
       "Nation": "GER",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "27",
       "Matches_Played": "30",
       "Starts": "30",
@@ -80,13 +80,12 @@
       "Saves": "110",
       "Save_%": ".776",
       "Clean_sheet": "7",
-      "Defender_rating": -8.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 109
+      "Defender_rating": -8.0
     },
     "Granit Xhaka": {
       "Nation": "SUI",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "26",
       "Matches_Played": "31",
       "Starts": "30",
@@ -112,7 +111,7 @@
     },
     "Nicolas Pépé": {
       "Nation": "CIV",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "24",
       "Matches_Played": "31",
       "Starts": "22",
@@ -138,7 +137,7 @@
     },
     "Alexandre Lacazette": {
       "Nation": "FRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "28",
       "Matches_Played": "30",
       "Starts": "22",
@@ -164,7 +163,7 @@
     },
     "Bukayo Saka": {
       "Nation": "ENG",
-      "Poition": "DF,FW",
+      "Position": "DF,FW",
       "Age": "17",
       "Matches_Played": "26",
       "Starts": "19",
@@ -190,7 +189,7 @@
     },
     "Mattéo Guendouzi": {
       "Nation": "FRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "20",
       "Matches_Played": "24",
       "Starts": "19",
@@ -216,7 +215,7 @@
     },
     "Sead Kolašinac": {
       "Nation": "BIH",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "26",
       "Starts": "19",
@@ -242,7 +241,7 @@
     },
     "Sokratis Papastathopoulos": {
       "Nation": "GRE",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "31",
       "Matches_Played": "19",
       "Starts": "19",
@@ -268,7 +267,7 @@
     },
     "Dani Ceballos": {
       "Nation": "ESP",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "22",
       "Matches_Played": "24",
       "Starts": "18",
@@ -294,7 +293,7 @@
     },
     "Mesut Özil": {
       "Nation": "GER",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "30",
       "Matches_Played": "18",
       "Starts": "18",
@@ -320,7 +319,7 @@
     },
     "Lucas Torreira": {
       "Nation": "URU",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "23",
       "Matches_Played": "29",
       "Starts": "17",
@@ -346,7 +345,7 @@
     },
     "Ainsley Maitland-Niles": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "20",
       "Starts": "15",
@@ -372,7 +371,7 @@
     },
     "Shkodran Mustafi": {
       "Nation": "GER",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "15",
       "Starts": "13",
@@ -398,7 +397,7 @@
     },
     "Héctor Bellerín": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "15",
       "Starts": "13",
@@ -424,7 +423,7 @@
     },
     "Calum Chambers": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "14",
       "Starts": "13",
@@ -450,7 +449,7 @@
     },
     "Kieran Tierney": {
       "Nation": "SCO",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "15",
       "Starts": "12",
@@ -476,7 +475,7 @@
     },
     "Joe Willock": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "19",
       "Matches_Played": "29",
       "Starts": "8",
@@ -502,7 +501,7 @@
     },
     "Emiliano Martínez": {
       "Nation": "ARG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "26",
       "Matches_Played": "9",
       "Starts": "8",
@@ -528,13 +527,12 @@
       "Saves": "33",
       "Save_%": ".810",
       "Clean_sheet": "3",
-      "Defender_rating": -20.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 102
+      "Defender_rating": -20.0
     },
     "Eddie Nketiah": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "20",
       "Matches_Played": "13",
       "Starts": "7",
@@ -560,7 +558,7 @@
     },
     "Reiss Nelson": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "19",
       "Matches_Played": "17",
       "Starts": "7",
@@ -586,7 +584,7 @@
     },
     "Martinelli": {
       "Nation": "BRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "18",
       "Matches_Played": "14",
       "Starts": "6",
@@ -612,7 +610,7 @@
     },
     "Rob Holding": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "23",
       "Matches_Played": "8",
       "Starts": "6",
@@ -638,7 +636,7 @@
     },
     "Nacho Monreal": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "33",
       "Matches_Played": "3",
       "Starts": "3",
@@ -664,7 +662,7 @@
     },
     "Cédric Soares": {
       "Nation": "POR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "5",
       "Starts": "3",
@@ -690,7 +688,7 @@
     },
     "Pablo Marí": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "2",
       "Starts": "2",
@@ -716,7 +714,7 @@
     },
     "Henrikh Mkhitaryan": {
       "Nation": "ARM",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "30",
       "Matches_Played": "3",
       "Starts": "1",
@@ -742,7 +740,7 @@
     },
     "Emile Smith-Rowe": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "2",
       "Starts": "1",
@@ -768,7 +766,7 @@
     },
     "Tyreece John-Jules": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "18",
       "Matches_Played": "0",
       "Starts": "0",
@@ -787,7 +785,7 @@
     },
     "Matt Macey": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "24",
       "Matches_Played": "0",
       "Starts": "0",
@@ -801,13 +799,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Konstantinos Mavropanos": {
       "Nation": "GRE",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "0",
       "Starts": "0",
@@ -826,7 +823,7 @@
     },
     "Zechariah Medley": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -845,7 +842,7 @@
     },
     "Matthew Smith": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "18",
       "Matches_Played": "0",
       "Starts": "0",
@@ -866,7 +863,7 @@
   "Aston Villa": {
     "Jack Grealish": {
       "Nation": "ENG",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "23",
       "Matches_Played": "36",
       "Starts": "36",
@@ -892,7 +889,7 @@
     },
     "Tyrone Mings": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "33",
       "Starts": "33",
@@ -918,7 +915,7 @@
     },
     "Douglas Luiz": {
       "Nation": "BRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "21",
       "Matches_Played": "36",
       "Starts": "28",
@@ -944,7 +941,7 @@
     },
     "John McGinn": {
       "Nation": "SCO",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "24",
       "Matches_Played": "28",
       "Starts": "27",
@@ -970,7 +967,7 @@
     },
     "Matt Targett": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "23",
       "Matches_Played": "28",
       "Starts": "27",
@@ -996,7 +993,7 @@
     },
     "Anwar El Ghazi": {
       "Nation": "NED",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "24",
       "Matches_Played": "34",
       "Starts": "26",
@@ -1022,7 +1019,7 @@
     },
     "Ezri Konsa": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "25",
       "Starts": "24",
@@ -1048,7 +1045,7 @@
     },
     "Frederic Guilbert": {
       "Nation": "FRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "25",
       "Starts": "22",
@@ -1074,7 +1071,7 @@
     },
     "Wesley Moraes": {
       "Nation": "BRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "22",
       "Matches_Played": "21",
       "Starts": "21",
@@ -1100,7 +1097,7 @@
     },
     "Trézéguet": {
       "Nation": "EGY",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "24",
       "Matches_Played": "34",
       "Starts": "20",
@@ -1126,7 +1123,7 @@
     },
     "Tom Heaton": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "33",
       "Matches_Played": "20",
       "Starts": "20",
@@ -1152,13 +1149,12 @@
       "Saves": "67",
       "Save_%": ".677",
       "Clean_sheet": "4",
-      "Defender_rating": 1.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 73
+      "Defender_rating": 1.0
     },
     "Marvelous Nakamba": {
       "Nation": "ZIM",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "25",
       "Matches_Played": "29",
       "Starts": "19",
@@ -1184,7 +1180,7 @@
     },
     "Conor Hourihane": {
       "Nation": "IRL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "27",
       "Starts": "18",
@@ -1210,7 +1206,7 @@
     },
     "Kortney Hause": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "18",
       "Starts": "17",
@@ -1236,7 +1232,7 @@
     },
     "Björn Engels": {
       "Nation": "BEL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "17",
       "Starts": "15",
@@ -1262,7 +1258,7 @@
     },
     "Pepe Reina": {
       "Nation": "ESP",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "36",
       "Matches_Played": "12",
       "Starts": "12",
@@ -1288,13 +1284,12 @@
       "Saves": "32",
       "Save_%": ".640",
       "Clean_sheet": "2",
-      "Defender_rating": -19.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 64
+      "Defender_rating": -19.0
     },
     "Neil Taylor": {
       "Nation": "WAL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "14",
       "Starts": "11",
@@ -1320,7 +1315,7 @@
     },
     "Ahmed Elmohamady": {
       "Nation": "EGY",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "31",
       "Matches_Played": "18",
       "Starts": "11",
@@ -1346,7 +1341,7 @@
     },
     "Mbwana Samatta": {
       "Nation": "TAN",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "26",
       "Matches_Played": "14",
       "Starts": "11",
@@ -1372,7 +1367,7 @@
     },
     "Ørjan Nyland": {
       "Nation": "NOR",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "28",
       "Matches_Played": "7",
       "Starts": "5",
@@ -1398,13 +1393,12 @@
       "Saves": "14",
       "Save_%": ".538",
       "Clean_sheet": "1",
-      "Defender_rating": -9.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 52
+      "Defender_rating": -9.0
     },
     "Keinan Davis": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "21",
       "Matches_Played": "18",
       "Starts": "4",
@@ -1430,7 +1424,7 @@
     },
     "Jota": {
       "Nation": "ESP",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "28",
       "Matches_Played": "10",
       "Starts": "4",
@@ -1456,7 +1450,7 @@
     },
     "Danny Drinkwater": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "29",
       "Matches_Played": "4",
       "Starts": "4",
@@ -1482,7 +1476,7 @@
     },
     "Henri Lansbury": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "10",
       "Starts": "2",
@@ -1508,7 +1502,7 @@
     },
     "Jed Steer": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "26",
       "Matches_Played": "1",
       "Starts": "1",
@@ -1534,13 +1528,12 @@
       "Saves": "0",
       "Save_%": "",
       "Clean_sheet": "0",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Jonathan Kodjia": {
       "Nation": "CIV",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "29",
       "Matches_Played": "6",
       "Starts": "0",
@@ -1566,7 +1559,7 @@
     },
     "Indiana Vassilev": {
       "Nation": "USA",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "18",
       "Matches_Played": "4",
       "Starts": "0",
@@ -1592,7 +1585,7 @@
     },
     "Borja Bastón": {
       "Nation": "ESP",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "26",
       "Matches_Played": "2",
       "Starts": "0",
@@ -1618,7 +1611,7 @@
     },
     "James Chester": {
       "Nation": "WAL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "0",
       "Starts": "0",
@@ -1637,7 +1630,7 @@
     },
     "Kaine Hayden": {
       "Nation": "",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "",
       "Matches_Played": "0",
       "Starts": "0",
@@ -1656,7 +1649,7 @@
     },
     "Lovre Kalinić": {
       "Nation": "CRO",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "29",
       "Matches_Played": "0",
       "Starts": "0",
@@ -1670,15 +1663,14 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     }
   },
   "Bournemouth": {
     "Aaron Ramsdale": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "21",
       "Matches_Played": "37",
       "Starts": "37",
@@ -1704,13 +1696,12 @@
       "Saves": "120",
       "Save_%": ".678",
       "Clean_sheet": "5",
-      "Defender_rating": -20.0,
       "Attacker_rating": 0.3,
-      "Goal_keeper_rating": 56
+      "Defender_rating": -20.0
     },
     "Callum Wilson": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "27",
       "Matches_Played": "35",
       "Starts": "32",
@@ -1736,7 +1727,7 @@
     },
     "Jefferson Lerma": {
       "Nation": "COL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "24",
       "Matches_Played": "33",
       "Starts": "31",
@@ -1762,7 +1753,7 @@
     },
     "Philip Billing": {
       "Nation": "DEN",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "23",
       "Matches_Played": "34",
       "Starts": "29",
@@ -1788,7 +1779,7 @@
     },
     "Nathan Aké": {
       "Nation": "NED",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "29",
       "Starts": "29",
@@ -1814,7 +1805,7 @@
     },
     "Steve Cook": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "28",
       "Matches_Played": "29",
       "Starts": "28",
@@ -1840,7 +1831,7 @@
     },
     "Diego Rico": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "27",
       "Starts": "27",
@@ -1866,7 +1857,7 @@
     },
     "Adam Smith": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "28",
       "Matches_Played": "24",
       "Starts": "24",
@@ -1892,7 +1883,7 @@
     },
     "Joshua King": {
       "Nation": "NOR",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "27",
       "Matches_Played": "26",
       "Starts": "24",
@@ -1918,7 +1909,7 @@
     },
     "Ryan Fraser": {
       "Nation": "SCO",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "25",
       "Matches_Played": "28",
       "Starts": "21",
@@ -1944,7 +1935,7 @@
     },
     "Harry Wilson": {
       "Nation": "WAL",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "22",
       "Matches_Played": "31",
       "Starts": "20",
@@ -1970,7 +1961,7 @@
     },
     "Dominic Solanke": {
       "Nation": "ENG",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "21",
       "Matches_Played": "32",
       "Starts": "17",
@@ -1996,7 +1987,7 @@
     },
     "Jack Stacey": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "23",
       "Matches_Played": "19",
       "Starts": "17",
@@ -2022,7 +2013,7 @@
     },
     "Lewis Cook": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "22",
       "Matches_Played": "27",
       "Starts": "14",
@@ -2048,7 +2039,7 @@
     },
     "Dan Gosling": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "29",
       "Matches_Played": "24",
       "Starts": "14",
@@ -2074,7 +2065,7 @@
     },
     "Simon Francis": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "34",
       "Matches_Played": "15",
       "Starts": "10",
@@ -2100,7 +2091,7 @@
     },
     "Chris Mepham": {
       "Nation": "WAL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "12",
       "Starts": "10",
@@ -2126,7 +2117,7 @@
     },
     "David Brooks": {
       "Nation": "WAL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "22",
       "Matches_Played": "9",
       "Starts": "8",
@@ -2152,7 +2143,7 @@
     },
     "Junior Stanislas": {
       "Nation": "ENG",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "29",
       "Matches_Played": "15",
       "Starts": "7",
@@ -2178,7 +2169,7 @@
     },
     "Lloyd Kelly": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "20",
       "Matches_Played": "8",
       "Starts": "7",
@@ -2204,7 +2195,7 @@
     },
     "Arnaut Groeneveld": {
       "Nation": "NED",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "22",
       "Matches_Played": "14",
       "Starts": "6",
@@ -2230,7 +2221,7 @@
     },
     "Andrew Surman": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "32",
       "Matches_Played": "5",
       "Starts": "2",
@@ -2256,7 +2247,7 @@
     },
     "Charlie Daniels": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "32",
       "Matches_Played": "2",
       "Starts": "2",
@@ -2282,7 +2273,7 @@
     },
     "Jack Simpson": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "4",
       "Starts": "1",
@@ -2308,7 +2299,7 @@
     },
     "Mark Travers": {
       "Nation": "IRL",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "20",
       "Matches_Played": "1",
       "Starts": "1",
@@ -2334,13 +2325,12 @@
       "Saves": "2",
       "Save_%": ".400",
       "Clean_sheet": "0",
-      "Defender_rating": -10.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 37
+      "Defender_rating": -10.0
     },
     "Jordon Ibe": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "23",
       "Matches_Played": "2",
       "Starts": "0",
@@ -2366,7 +2356,7 @@
     },
     "Sam Surridge": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "21",
       "Matches_Played": "4",
       "Starts": "0",
@@ -2392,7 +2382,7 @@
     },
     "Artur Boruc": {
       "Nation": "POL",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "39",
       "Matches_Played": "0",
       "Starts": "0",
@@ -2406,13 +2396,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Mihai Dobre": {
       "Nation": "ROU",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -2431,7 +2420,7 @@
     },
     "Gavin Kilkenny": {
       "Nation": "IRL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -2450,7 +2439,7 @@
     },
     "Christian Saydee": {
       "Nation": "LBR",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "17",
       "Matches_Played": "0",
       "Starts": "0",
@@ -2471,7 +2460,7 @@
   "Brighton": {
     "Mathew Ryan": {
       "Nation": "AUS",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "27",
       "Matches_Played": "38",
       "Starts": "38",
@@ -2497,13 +2486,12 @@
       "Saves": "114",
       "Save_%": ".683",
       "Clean_sheet": "9",
-      "Defender_rating": -36.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 104
+      "Defender_rating": -36.0
     },
     "Lewis Dunk": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "36",
       "Starts": "36",
@@ -2529,7 +2517,7 @@
     },
     "Dan Burn": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "34",
       "Starts": "33",
@@ -2555,7 +2543,7 @@
     },
     "Davy Pröpper": {
       "Nation": "NED",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "35",
       "Starts": "32",
@@ -2581,7 +2569,7 @@
     },
     "Adam Webster": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "31",
       "Starts": "31",
@@ -2607,7 +2595,7 @@
     },
     "Neal Maupay": {
       "Nation": "FRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "22",
       "Matches_Played": "37",
       "Starts": "30",
@@ -2633,7 +2621,7 @@
     },
     "Dale Stephens": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "30",
       "Matches_Played": "33",
       "Starts": "28",
@@ -2659,7 +2647,7 @@
     },
     "Aaron Mooy": {
       "Nation": "AUS",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "28",
       "Matches_Played": "31",
       "Starts": "25",
@@ -2685,7 +2673,7 @@
     },
     "Martín Montoya": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "28",
       "Matches_Played": "27",
       "Starts": "23",
@@ -2711,7 +2699,7 @@
     },
     "Leandro Trossard": {
       "Nation": "BEL",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "24",
       "Matches_Played": "31",
       "Starts": "22",
@@ -2737,7 +2725,7 @@
     },
     "Pascal Groß": {
       "Nation": "GER",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "28",
       "Matches_Played": "29",
       "Starts": "22",
@@ -2763,7 +2751,7 @@
     },
     "Yves Bissouma": {
       "Nation": "MLI",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "22",
       "Matches_Played": "22",
       "Starts": "15",
@@ -2789,7 +2777,7 @@
     },
     "Aaron Connolly": {
       "Nation": "IRL",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "19",
       "Matches_Played": "24",
       "Starts": "14",
@@ -2815,7 +2803,7 @@
     },
     "Shane Duffy": {
       "Nation": "IRL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "19",
       "Starts": "12",
@@ -2841,7 +2829,7 @@
     },
     "Steven Alzate": {
       "Nation": "COL",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "20",
       "Matches_Played": "19",
       "Starts": "12",
@@ -2867,7 +2855,7 @@
     },
     "Solly March": {
       "Nation": "ENG",
-      "Poition": "DF,FW",
+      "Position": "DF,FW",
       "Age": "25",
       "Matches_Played": "19",
       "Starts": "11",
@@ -2893,7 +2881,7 @@
     },
     "Glenn Murray": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "35",
       "Matches_Played": "23",
       "Starts": "7",
@@ -2919,7 +2907,7 @@
     },
     "Bernardo": {
       "Nation": "BRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "14",
       "Starts": "7",
@@ -2945,7 +2933,7 @@
     },
     "Tariq Lamptey": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "18",
       "Matches_Played": "8",
       "Starts": "7",
@@ -2971,7 +2959,7 @@
     },
     "Ezequiel Schelotto": {
       "Nation": "ITA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "8",
       "Starts": "4",
@@ -2997,7 +2985,7 @@
     },
     "Alexis Mac Allister": {
       "Nation": "ARG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "20",
       "Matches_Played": "9",
       "Starts": "4",
@@ -3023,7 +3011,7 @@
     },
     "Alireza Jahanbakhsh": {
       "Nation": "IRN",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "25",
       "Matches_Played": "10",
       "Starts": "3",
@@ -3049,7 +3037,7 @@
     },
     "Jürgen Locadia": {
       "Nation": "NED",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "25",
       "Matches_Played": "2",
       "Starts": "1",
@@ -3075,7 +3063,7 @@
     },
     "Florin Andone": {
       "Nation": "ROU",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "26",
       "Matches_Played": "3",
       "Starts": "1",
@@ -3101,7 +3089,7 @@
     },
     "Gaëtan Bong": {
       "Nation": "CMR",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "31",
       "Matches_Played": "4",
       "Starts": "0",
@@ -3127,7 +3115,7 @@
     },
     "Leon Balogun": {
       "Nation": "NGA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "31",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3146,7 +3134,7 @@
     },
     "Tudor Băluță": {
       "Nation": "ROU",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3165,7 +3153,7 @@
     },
     "David Button": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "30",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3179,13 +3167,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Alexander Cochrane": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3206,7 +3193,7 @@
   "Burnley": {
     "Nick Pope": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "27",
       "Matches_Played": "38",
       "Starts": "38",
@@ -3232,13 +3219,12 @@
       "Saves": "112",
       "Save_%": ".711",
       "Clean_sheet": "15",
-      "Defender_rating": -8.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 171
+      "Defender_rating": -8.0
     },
     "James Tarkowski": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "38",
       "Starts": "38",
@@ -3264,7 +3250,7 @@
     },
     "Dwight McNeil": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "38",
       "Starts": "38",
@@ -3290,7 +3276,7 @@
     },
     "Ashley Westwood": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "29",
       "Matches_Played": "35",
       "Starts": "35",
@@ -3316,7 +3302,7 @@
     },
     "Ben Mee": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "32",
       "Starts": "32",
@@ -3342,7 +3328,7 @@
     },
     "Jack Cork": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "30",
       "Matches_Played": "30",
       "Starts": "30",
@@ -3368,7 +3354,7 @@
     },
     "Chris Wood": {
       "Nation": "NZL",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "27",
       "Matches_Played": "32",
       "Starts": "29",
@@ -3394,7 +3380,7 @@
     },
     "Charlie Taylor": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "24",
       "Starts": "22",
@@ -3420,7 +3406,7 @@
     },
     "Jeff Hendrick": {
       "Nation": "IRL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "24",
       "Starts": "22",
@@ -3446,7 +3432,7 @@
     },
     "Phil Bardsley": {
       "Nation": "SCO",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "34",
       "Matches_Played": "21",
       "Starts": "21",
@@ -3472,7 +3458,7 @@
     },
     "Erik Pieters": {
       "Nation": "NED",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "30",
       "Matches_Played": "24",
       "Starts": "21",
@@ -3498,7 +3484,7 @@
     },
     "Jay Rodriguez": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "30",
       "Matches_Played": "36",
       "Starts": "20",
@@ -3524,7 +3510,7 @@
     },
     "Matthew Lowton": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "17",
       "Starts": "17",
@@ -3550,7 +3536,7 @@
     },
     "Ashley Barnes": {
       "Nation": "AUT",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "29",
       "Matches_Played": "19",
       "Starts": "17",
@@ -3576,7 +3562,7 @@
     },
     "Josh Brownhill": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "23",
       "Matches_Played": "10",
       "Starts": "9",
@@ -3602,7 +3588,7 @@
     },
     "Matěj Vydra": {
       "Nation": "CZE",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "27",
       "Matches_Played": "19",
       "Starts": "7",
@@ -3628,7 +3614,7 @@
     },
     "Jóhann Berg Guðmundsson": {
       "Nation": "ISL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "12",
       "Starts": "6",
@@ -3654,7 +3640,7 @@
     },
     "Kevin Long": {
       "Nation": "IRL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "28",
       "Matches_Played": "8",
       "Starts": "6",
@@ -3680,7 +3666,7 @@
     },
     "Robbie Brady": {
       "Nation": "IRL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "17",
       "Starts": "5",
@@ -3706,7 +3692,7 @@
     },
     "Aaron Lennon": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "32",
       "Matches_Played": "16",
       "Starts": "4",
@@ -3732,7 +3718,7 @@
     },
     "Danny Drinkwater": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "29",
       "Matches_Played": "1",
       "Starts": "1",
@@ -3758,7 +3744,7 @@
     },
     "Max Thompson": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "17",
       "Matches_Played": "1",
       "Starts": "0",
@@ -3784,7 +3770,7 @@
     },
     "Josh Benson": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3803,7 +3789,7 @@
     },
     "Anthony Driscoll-Glennon": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3822,7 +3808,7 @@
     },
     "Jimmy Dunne": {
       "Nation": "IRL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3841,7 +3827,7 @@
     },
     "Ben Gibson": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3860,7 +3846,7 @@
     },
     "Mace Goodridge": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3879,7 +3865,7 @@
     },
     "Joe Hart": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "32",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3893,13 +3879,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Lukas Jensen": {
       "Nation": "DEN",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3913,13 +3898,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Ali Koiki": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "18",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3938,7 +3922,7 @@
     },
     "Joel Mumbongo": {
       "Nation": "SWE",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3957,7 +3941,7 @@
     },
     "Bailey Peacock-Farrell": {
       "Nation": "NIR",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "22",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3971,13 +3955,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Bobby Thomas": {
       "Nation": "",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "",
       "Matches_Played": "0",
       "Starts": "0",
@@ -3998,7 +3981,7 @@
   "Chelsea": {
     "César Azpilicueta": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "36",
       "Starts": "36",
@@ -4024,7 +4007,7 @@
     },
     "Kepa Arrizabalaga": {
       "Nation": "ESP",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "24",
       "Matches_Played": "33",
       "Starts": "33",
@@ -4050,13 +4033,12 @@
       "Saves": "55",
       "Save_%": ".545",
       "Clean_sheet": "8",
-      "Defender_rating": -18.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 88
+      "Defender_rating": -18.0
     },
     "Mason Mount": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "20",
       "Matches_Played": "37",
       "Starts": "32",
@@ -4082,7 +4064,7 @@
     },
     "Willian": {
       "Nation": "BRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "30",
       "Matches_Played": "36",
       "Starts": "29",
@@ -4108,7 +4090,7 @@
     },
     "Jorginho": {
       "Nation": "ITA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "31",
       "Starts": "27",
@@ -4134,7 +4116,7 @@
     },
     "Kurt Zouma": {
       "Nation": "FRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "28",
       "Starts": "25",
@@ -4160,7 +4142,7 @@
     },
     "Tammy Abraham": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "21",
       "Matches_Played": "34",
       "Starts": "25",
@@ -4186,7 +4168,7 @@
     },
     "Mateo Kovačić": {
       "Nation": "CRO",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "25",
       "Matches_Played": "31",
       "Starts": "23",
@@ -4212,7 +4194,7 @@
     },
     "Andreas Christensen": {
       "Nation": "DEN",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "23",
       "Matches_Played": "21",
       "Starts": "21",
@@ -4238,7 +4220,7 @@
     },
     "N'Golo Kanté": {
       "Nation": "FRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "22",
       "Starts": "20",
@@ -4264,7 +4246,7 @@
     },
     "Christian Pulisic": {
       "Nation": "USA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "20",
       "Matches_Played": "25",
       "Starts": "19",
@@ -4290,7 +4272,7 @@
     },
     "Antonio Rüdiger": {
       "Nation": "GER",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "20",
       "Starts": "19",
@@ -4316,7 +4298,7 @@
     },
     "Reece James": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "19",
       "Matches_Played": "24",
       "Starts": "16",
@@ -4342,7 +4324,7 @@
     },
     "Marcos Alonso": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "28",
       "Matches_Played": "18",
       "Starts": "15",
@@ -4368,7 +4350,7 @@
     },
     "Fikayo Tomori": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "15",
       "Starts": "15",
@@ -4394,7 +4376,7 @@
     },
     "Ross Barkley": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "25",
       "Matches_Played": "21",
       "Starts": "13",
@@ -4420,7 +4402,7 @@
     },
     "Emerson Palmieri": {
       "Nation": "ITA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "15",
       "Starts": "13",
@@ -4446,7 +4428,7 @@
     },
     "Olivier Giroud": {
       "Nation": "FRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "32",
       "Matches_Played": "18",
       "Starts": "12",
@@ -4472,7 +4454,7 @@
     },
     "Pedro": {
       "Nation": "ESP",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "32",
       "Matches_Played": "11",
       "Starts": "8",
@@ -4498,7 +4480,7 @@
     },
     "Callum Hudson-Odoi": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "18",
       "Matches_Played": "22",
       "Starts": "7",
@@ -4524,7 +4506,7 @@
     },
     "Willy Caballero": {
       "Nation": "ARG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "37",
       "Matches_Played": "5",
       "Starts": "5",
@@ -4550,13 +4532,12 @@
       "Saves": "10",
       "Save_%": ".563",
       "Clean_sheet": "1",
-      "Defender_rating": 1.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 59
+      "Defender_rating": 1.0
     },
     "Ruben Loftus-Cheek": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "23",
       "Matches_Played": "7",
       "Starts": "2",
@@ -4582,7 +4563,7 @@
     },
     "Billy Gilmour": {
       "Nation": "SCO",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "18",
       "Matches_Played": "6",
       "Starts": "2",
@@ -4608,7 +4589,7 @@
     },
     "Michy Batshuayi": {
       "Nation": "BEL",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "25",
       "Matches_Played": "16",
       "Starts": "1",
@@ -4634,7 +4615,7 @@
     },
     "Tariq Lamptey": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "18",
       "Matches_Played": "1",
       "Starts": "0",
@@ -4660,7 +4641,7 @@
     },
     "Faustino Anjorin": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "17",
       "Matches_Played": "1",
       "Starts": "0",
@@ -4686,7 +4667,7 @@
     },
     "Armando Broja": {
       "Nation": "ALB",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "17",
       "Matches_Played": "1",
       "Starts": "0",
@@ -4712,7 +4693,7 @@
     },
     "Lewis Bate": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "16",
       "Matches_Played": "0",
       "Starts": "0",
@@ -4731,7 +4712,7 @@
     },
     "Marc Guéhi": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -4750,7 +4731,7 @@
     },
     "Kenedy": {
       "Nation": "BRA",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "23",
       "Matches_Played": "0",
       "Starts": "0",
@@ -4771,7 +4752,7 @@
   "Crystal Palace": {
     "Wilfried Zaha": {
       "Nation": "CIV",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "26",
       "Matches_Played": "38",
       "Starts": "37",
@@ -4797,7 +4778,7 @@
     },
     "Jordan Ayew": {
       "Nation": "GHA",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "27",
       "Matches_Played": "37",
       "Starts": "37",
@@ -4823,7 +4804,7 @@
     },
     "James McArthur": {
       "Nation": "SCO",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "31",
       "Matches_Played": "37",
       "Starts": "37",
@@ -4849,7 +4830,7 @@
     },
     "Vicente Guaita": {
       "Nation": "ESP",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "32",
       "Matches_Played": "35",
       "Starts": "35",
@@ -4875,13 +4856,12 @@
       "Saves": "106",
       "Save_%": ".714",
       "Clean_sheet": "10",
-      "Defender_rating": -20.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 129
+      "Defender_rating": -20.0
     },
     "Cheikhou Kouyaté": {
       "Nation": "SEN",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "29",
       "Matches_Played": "35",
       "Starts": "29",
@@ -4907,7 +4887,7 @@
     },
     "Patrick van Aanholt": {
       "Nation": "NED",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "28",
       "Matches_Played": "29",
       "Starts": "29",
@@ -4933,7 +4913,7 @@
     },
     "Luka Milivojević": {
       "Nation": "SRB",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "31",
       "Starts": "28",
@@ -4959,7 +4939,7 @@
     },
     "Joel Ward": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "29",
       "Starts": "27",
@@ -4985,7 +4965,7 @@
     },
     "Gary Cahill": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "33",
       "Matches_Played": "25",
       "Starts": "25",
@@ -5011,7 +4991,7 @@
     },
     "James Tomkins": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "18",
       "Starts": "18",
@@ -5037,7 +5017,7 @@
     },
     "Martin Kelly": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "19",
       "Starts": "17",
@@ -5063,7 +5043,7 @@
     },
     "James McCarthy": {
       "Nation": "IRL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "33",
       "Starts": "16",
@@ -5089,7 +5069,7 @@
     },
     "Andros Townsend": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "24",
       "Starts": "14",
@@ -5115,7 +5095,7 @@
     },
     "Scott Dann": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "32",
       "Matches_Played": "16",
       "Starts": "14",
@@ -5141,7 +5121,7 @@
     },
     "Christian Benteke": {
       "Nation": "BEL",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "28",
       "Matches_Played": "24",
       "Starts": "13",
@@ -5167,7 +5147,7 @@
     },
     "Jeffrey Schlupp": {
       "Nation": "GHA",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "26",
       "Matches_Played": "17",
       "Starts": "11",
@@ -5193,7 +5173,7 @@
     },
     "Mamadou Sakho": {
       "Nation": "FRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "14",
       "Starts": "11",
@@ -5219,7 +5199,7 @@
     },
     "Jaïro Riedewald": {
       "Nation": "NED",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "22",
       "Matches_Played": "17",
       "Starts": "7",
@@ -5245,7 +5225,7 @@
     },
     "Max Meyer": {
       "Nation": "GER",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "23",
       "Matches_Played": "17",
       "Starts": "6",
@@ -5271,7 +5251,7 @@
     },
     "Wayne Hennessey": {
       "Nation": "WAL",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "32",
       "Matches_Played": "3",
       "Starts": "3",
@@ -5297,13 +5277,12 @@
       "Saves": "14",
       "Save_%": ".636",
       "Clean_sheet": "0",
-      "Defender_rating": 1.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 56
+      "Defender_rating": 1.0
     },
     "Tyrick Mitchell": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "19",
       "Matches_Played": "4",
       "Starts": "2",
@@ -5329,7 +5308,7 @@
     },
     "Cenk Tosun": {
       "Nation": "TUR",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "28",
       "Matches_Played": "5",
       "Starts": "2",
@@ -5355,7 +5334,7 @@
     },
     "Connor Wickham": {
       "Nation": "ENG",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "26",
       "Matches_Played": "6",
       "Starts": "0",
@@ -5381,7 +5360,7 @@
     },
     "Brandon Pierrick": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "17",
       "Matches_Played": "2",
       "Starts": "0",
@@ -5407,7 +5386,7 @@
     },
     "Víctor Camarasa": {
       "Nation": "ESP",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "25",
       "Matches_Played": "1",
       "Starts": "0",
@@ -5433,7 +5412,7 @@
     },
     "James Daly": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -5452,7 +5431,7 @@
     },
     "John-Kymani Gordon": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "16",
       "Matches_Played": "0",
       "Starts": "0",
@@ -5471,7 +5450,7 @@
     },
     "Stephen Henderson": {
       "Nation": "IRL",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "31",
       "Matches_Played": "0",
       "Starts": "0",
@@ -5485,13 +5464,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Nya Kirby": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -5510,7 +5488,7 @@
     },
     "Giovanni McGregor": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -5529,7 +5507,7 @@
     },
     "Nikola Tavares": {
       "Nation": "CRO",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -5548,7 +5526,7 @@
     },
     "Sam Woods": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -5569,7 +5547,7 @@
   "Everton": {
     "Jordan Pickford": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "25",
       "Matches_Played": "38",
       "Starts": "38",
@@ -5595,13 +5573,12 @@
       "Saves": "95",
       "Save_%": ".634",
       "Clean_sheet": "9",
-      "Defender_rating": -8.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 97
+      "Defender_rating": -8.0
     },
     "Richarlison": {
       "Nation": "BRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "22",
       "Matches_Played": "36",
       "Starts": "36",
@@ -5627,7 +5604,7 @@
     },
     "Lucas Digne": {
       "Nation": "FRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "35",
       "Starts": "35",
@@ -5653,7 +5630,7 @@
     },
     "Dominic Calvert-Lewin": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "22",
       "Matches_Played": "36",
       "Starts": "30",
@@ -5679,7 +5656,7 @@
     },
     "Gylfi Sigurðsson": {
       "Nation": "ISL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "29",
       "Matches_Played": "35",
       "Starts": "28",
@@ -5705,7 +5682,7 @@
     },
     "Michael Keane": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "31",
       "Starts": "28",
@@ -5731,7 +5708,7 @@
     },
     "Yerry Mina": {
       "Nation": "COL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "29",
       "Starts": "25",
@@ -5757,7 +5734,7 @@
     },
     "Mason Holgate": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "27",
       "Starts": "24",
@@ -5783,7 +5760,7 @@
     },
     "Tom Davies": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "21",
       "Matches_Played": "30",
       "Starts": "23",
@@ -5809,7 +5786,7 @@
     },
     "Séamus Coleman": {
       "Nation": "IRL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "27",
       "Starts": "21",
@@ -5835,7 +5812,7 @@
     },
     "Alex Iwobi": {
       "Nation": "NGA",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "23",
       "Matches_Played": "25",
       "Starts": "19",
@@ -5861,7 +5838,7 @@
     },
     "Djibril Sidibé": {
       "Nation": "FRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "25",
       "Starts": "18",
@@ -5887,7 +5864,7 @@
     },
     "André Gomes": {
       "Nation": "POR",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "26",
       "Matches_Played": "19",
       "Starts": "17",
@@ -5913,7 +5890,7 @@
     },
     "Theo Walcott": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "30",
       "Matches_Played": "25",
       "Starts": "17",
@@ -5939,7 +5916,7 @@
     },
     "Bernard": {
       "Nation": "BRA",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "26",
       "Matches_Played": "27",
       "Starts": "15",
@@ -5965,7 +5942,7 @@
     },
     "Fabian Delph": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "29",
       "Matches_Played": "16",
       "Starts": "13",
@@ -5991,7 +5968,7 @@
     },
     "Morgan Schneiderlin": {
       "Nation": "FRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "29",
       "Matches_Played": "15",
       "Starts": "12",
@@ -6017,7 +5994,7 @@
     },
     "Moise Kean": {
       "Nation": "ITA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "19",
       "Matches_Played": "29",
       "Starts": "6",
@@ -6043,7 +6020,7 @@
     },
     "Anthony Gordon": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "18",
       "Matches_Played": "11",
       "Starts": "4",
@@ -6069,7 +6046,7 @@
     },
     "Leighton Baines": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "34",
       "Matches_Played": "8",
       "Starts": "4",
@@ -6095,7 +6072,7 @@
     },
     "Jarrad Branthwaite": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "17",
       "Matches_Played": "4",
       "Starts": "2",
@@ -6121,7 +6098,7 @@
     },
     "Cenk Tosun": {
       "Nation": "TUR",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "28",
       "Matches_Played": "5",
       "Starts": "2",
@@ -6147,7 +6124,7 @@
     },
     "Jean-Philippe Gbamin": {
       "Nation": "CIV",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "23",
       "Matches_Played": "2",
       "Starts": "1",
@@ -6173,7 +6150,7 @@
     },
     "Oumar Niasse": {
       "Nation": "SEN",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "29",
       "Matches_Played": "3",
       "Starts": "0",
@@ -6199,7 +6176,7 @@
     },
     "Beni Baningime": {
       "Nation": "COD",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -6218,7 +6195,7 @@
     },
     "Lewis Gibson": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -6237,7 +6214,7 @@
     },
     "Jonas Lössl": {
       "Nation": "DEN",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "30",
       "Matches_Played": "0",
       "Starts": "0",
@@ -6251,13 +6228,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Cuco Martina": {
       "Nation": "CUW",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "29",
       "Matches_Played": "0",
       "Starts": "0",
@@ -6276,7 +6252,7 @@
     },
     "Ellis Simms": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "18",
       "Matches_Played": "0",
       "Starts": "0",
@@ -6295,7 +6271,7 @@
     },
     "Maarten Stekelenburg": {
       "Nation": "NED",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "36",
       "Matches_Played": "0",
       "Starts": "0",
@@ -6309,13 +6285,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "João Virgínia": {
       "Nation": "POR",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -6329,15 +6304,14 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     }
   },
   "Leicester City": {
     "Kasper Schmeichel": {
       "Nation": "DEN",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "32",
       "Matches_Played": "38",
       "Starts": "38",
@@ -6363,13 +6337,12 @@
       "Saves": "95",
       "Save_%": ".738",
       "Clean_sheet": "13",
-      "Defender_rating": -10.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 163
+      "Defender_rating": -10.0
     },
     "Jonny Evans": {
       "Nation": "NIR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "31",
       "Matches_Played": "38",
       "Starts": "38",
@@ -6395,7 +6368,7 @@
     },
     "Çağlar Söyüncü": {
       "Nation": "TUR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "23",
       "Matches_Played": "34",
       "Starts": "34",
@@ -6421,7 +6394,7 @@
     },
     "Jamie Vardy": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "32",
       "Matches_Played": "35",
       "Starts": "34",
@@ -6447,7 +6420,7 @@
     },
     "Youri Tielemans": {
       "Nation": "BEL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "22",
       "Matches_Played": "37",
       "Starts": "32",
@@ -6473,7 +6446,7 @@
     },
     "Wilfred Ndidi": {
       "Nation": "NGA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "22",
       "Matches_Played": "32",
       "Starts": "29",
@@ -6499,7 +6472,7 @@
     },
     "James Maddison": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "22",
       "Matches_Played": "31",
       "Starts": "29",
@@ -6525,7 +6498,7 @@
     },
     "Ricardo Pereira": {
       "Nation": "POR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "28",
       "Starts": "28",
@@ -6551,7 +6524,7 @@
     },
     "Ben Chilwell": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "27",
       "Starts": "27",
@@ -6577,7 +6550,7 @@
     },
     "Ayoze Pérez": {
       "Nation": "ESP",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "26",
       "Matches_Played": "33",
       "Starts": "26",
@@ -6603,7 +6576,7 @@
     },
     "Harvey Barnes": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "21",
       "Matches_Played": "36",
       "Starts": "24",
@@ -6629,7 +6602,7 @@
     },
     "Dennis Praet": {
       "Nation": "BEL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "25",
       "Matches_Played": "27",
       "Starts": "12",
@@ -6655,7 +6628,7 @@
     },
     "Kelechi Iheanacho": {
       "Nation": "NGA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "22",
       "Matches_Played": "20",
       "Starts": "12",
@@ -6681,7 +6654,7 @@
     },
     "James Justin": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "13",
       "Starts": "11",
@@ -6707,7 +6680,7 @@
     },
     "Hamza Choudhury": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "21",
       "Matches_Played": "20",
       "Starts": "10",
@@ -6733,7 +6706,7 @@
     },
     "Marc Albrighton": {
       "Nation": "ENG",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "29",
       "Matches_Played": "20",
       "Starts": "9",
@@ -6759,7 +6732,7 @@
     },
     "Christian Fuchs": {
       "Nation": "AUT",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "33",
       "Matches_Played": "11",
       "Starts": "8",
@@ -6785,7 +6758,7 @@
     },
     "Wes Morgan": {
       "Nation": "JAM",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "35",
       "Matches_Played": "11",
       "Starts": "4",
@@ -6811,7 +6784,7 @@
     },
     "Nampalys Mendy": {
       "Nation": "FRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "7",
       "Starts": "4",
@@ -6837,7 +6810,7 @@
     },
     "Demarai Gray": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "23",
       "Matches_Played": "21",
       "Starts": "3",
@@ -6863,7 +6836,7 @@
     },
     "Ryan Bennett": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "5",
       "Starts": "3",
@@ -6889,7 +6862,7 @@
     },
     "Luke Thomas": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "",
       "Matches_Played": "3",
       "Starts": "3",
@@ -6915,7 +6888,7 @@
     },
     "George Hirst": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "20",
       "Matches_Played": "2",
       "Starts": "0",
@@ -6941,7 +6914,7 @@
     },
     "Matty James": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "1",
       "Starts": "0",
@@ -6967,7 +6940,7 @@
     },
     "Filip Benković": {
       "Nation": "CRO",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "0",
       "Starts": "0",
@@ -6986,7 +6959,7 @@
     },
     "Darnell Johnson": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -7005,7 +6978,7 @@
     },
     "Danny Ward": {
       "Nation": "WAL",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "26",
       "Matches_Played": "0",
       "Starts": "0",
@@ -7019,15 +6992,14 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     }
   },
   "Liverpool": {
     "Virgil van Dijk": {
       "Nation": "NED",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "28",
       "Matches_Played": "38",
       "Starts": "38",
@@ -7053,7 +7025,7 @@
     },
     "Trent Alexander-Arnold": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "20",
       "Matches_Played": "38",
       "Starts": "35",
@@ -7079,7 +7051,7 @@
     },
     "Georginio Wijnaldum": {
       "Nation": "NED",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "37",
       "Starts": "35",
@@ -7105,7 +7077,7 @@
     },
     "Andrew Robertson": {
       "Nation": "SCO",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "36",
       "Starts": "34",
@@ -7131,7 +7103,7 @@
     },
     "Roberto Firmino": {
       "Nation": "BRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "27",
       "Matches_Played": "38",
       "Starts": "34",
@@ -7157,7 +7129,7 @@
     },
     "Mohamed Salah": {
       "Nation": "EGY",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "27",
       "Matches_Played": "34",
       "Starts": "33",
@@ -7183,7 +7155,7 @@
     },
     "Sadio Mané": {
       "Nation": "SEN",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "27",
       "Matches_Played": "35",
       "Starts": "31",
@@ -7209,7 +7181,7 @@
     },
     "Alisson": {
       "Nation": "BRA",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "26",
       "Matches_Played": "29",
       "Starts": "29",
@@ -7235,13 +7207,12 @@
       "Saves": "58",
       "Save_%": ".722",
       "Clean_sheet": "13",
-      "Defender_rating": -7.0,
       "Attacker_rating": 0.4,
-      "Goal_keeper_rating": 179
+      "Defender_rating": -7.0
     },
     "Jordan Henderson": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "29",
       "Matches_Played": "30",
       "Starts": "26",
@@ -7267,7 +7238,7 @@
     },
     "Fabinho": {
       "Nation": "BRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "25",
       "Matches_Played": "28",
       "Starts": "22",
@@ -7293,7 +7264,7 @@
     },
     "Joe Gomez": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "28",
       "Starts": "22",
@@ -7319,7 +7290,7 @@
     },
     "Alex Oxlade-Chamberlain": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "25",
       "Matches_Played": "30",
       "Starts": "17",
@@ -7345,7 +7316,7 @@
     },
     "James Milner": {
       "Nation": "ENG",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "33",
       "Matches_Played": "22",
       "Starts": "9",
@@ -7371,7 +7342,7 @@
     },
     "Adrián": {
       "Nation": "ESP",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "32",
       "Matches_Played": "11",
       "Starts": "9",
@@ -7397,13 +7368,12 @@
       "Saves": "17",
       "Save_%": ".643",
       "Clean_sheet": "2",
-      "Defender_rating": -20.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 74
+      "Defender_rating": -20.0
     },
     "Naby Keïta": {
       "Nation": "GUI",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "24",
       "Matches_Played": "18",
       "Starts": "9",
@@ -7429,7 +7399,7 @@
     },
     "Dejan Lovren": {
       "Nation": "CRO",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "10",
       "Starts": "9",
@@ -7455,7 +7425,7 @@
     },
     "Joël Matip": {
       "Nation": "CMR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "9",
       "Starts": "8",
@@ -7481,7 +7451,7 @@
     },
     "Divock Origi": {
       "Nation": "BEL",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "24",
       "Matches_Played": "28",
       "Starts": "7",
@@ -7507,7 +7477,7 @@
     },
     "Adam Lallana": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "31",
       "Matches_Played": "15",
       "Starts": "3",
@@ -7533,7 +7503,7 @@
     },
     "Neco Williams": {
       "Nation": "WAL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "18",
       "Matches_Played": "6",
       "Starts": "3",
@@ -7559,7 +7529,7 @@
     },
     "Takumi Minamino": {
       "Nation": "JPN",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "24",
       "Matches_Played": "10",
       "Starts": "2",
@@ -7585,7 +7555,7 @@
     },
     "Xherdan Shaqiri": {
       "Nation": "SUI",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "27",
       "Matches_Played": "7",
       "Starts": "2",
@@ -7611,7 +7581,7 @@
     },
     "Curtis Jones": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "18",
       "Matches_Played": "6",
       "Starts": "1",
@@ -7637,7 +7607,7 @@
     },
     "Harvey Elliot": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "16",
       "Matches_Played": "2",
       "Starts": "0",
@@ -7663,7 +7633,7 @@
     },
     "Rhian Brewster": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -7682,7 +7652,7 @@
     },
     "Ki-Jana Hoever": {
       "Nation": "NED",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "17",
       "Matches_Played": "0",
       "Starts": "0",
@@ -7701,7 +7671,7 @@
     },
     "Caoimhin Kelleher": {
       "Nation": "IRL",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -7715,13 +7685,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Andy Lonergan": {
       "Nation": "IRL",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "35",
       "Matches_Played": "0",
       "Starts": "0",
@@ -7735,13 +7704,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Nathaniel Phillips": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "0",
       "Starts": "0",
@@ -7762,7 +7730,7 @@
   "Manchester City": {
     "Ederson": {
       "Nation": "BRA",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "25",
       "Matches_Played": "35",
       "Starts": "35",
@@ -7788,13 +7756,12 @@
       "Saves": "65",
       "Save_%": ".728",
       "Clean_sheet": "16",
-      "Defender_rating": -34.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 205
+      "Defender_rating": -34.0
     },
     "Kevin De Bruyne": {
       "Nation": "BEL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "35",
       "Starts": "32",
@@ -7820,7 +7787,7 @@
     },
     "Raheem Sterling": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "24",
       "Matches_Played": "33",
       "Starts": "30",
@@ -7846,7 +7813,7 @@
     },
     "Rodri": {
       "Nation": "ESP",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "23",
       "Matches_Played": "35",
       "Starts": "29",
@@ -7872,7 +7839,7 @@
     },
     "Kyle Walker": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "29",
       "Starts": "28",
@@ -7898,7 +7865,7 @@
     },
     "Fernandinho": {
       "Nation": "BRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "34",
       "Matches_Played": "30",
       "Starts": "26",
@@ -7924,7 +7891,7 @@
     },
     "Bernardo Silva": {
       "Nation": "POR",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "24",
       "Matches_Played": "34",
       "Starts": "23",
@@ -7950,7 +7917,7 @@
     },
     "David Silva": {
       "Nation": "ESP",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "33",
       "Matches_Played": "27",
       "Starts": "22",
@@ -7976,7 +7943,7 @@
     },
     "Gabriel Jesus": {
       "Nation": "BRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "22",
       "Matches_Played": "34",
       "Starts": "21",
@@ -8002,7 +7969,7 @@
     },
     "İlkay Gündoğan": {
       "Nation": "GER",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "31",
       "Starts": "21",
@@ -8028,7 +7995,7 @@
     },
     "Riyad Mahrez": {
       "Nation": "ALG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "28",
       "Matches_Played": "33",
       "Starts": "21",
@@ -8054,7 +8021,7 @@
     },
     "Nicolás Otamendi": {
       "Nation": "ARG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "31",
       "Matches_Played": "24",
       "Starts": "18",
@@ -8080,7 +8047,7 @@
     },
     "Benjamin Mendy": {
       "Nation": "FRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "19",
       "Starts": "18",
@@ -8106,7 +8073,7 @@
     },
     "Sergio Agüero": {
       "Nation": "ARG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "31",
       "Matches_Played": "24",
       "Starts": "18",
@@ -8132,7 +8099,7 @@
     },
     "Aymeric Laporte": {
       "Nation": "FRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "15",
       "Starts": "14",
@@ -8158,7 +8125,7 @@
     },
     "Oleksandr Zinchenko": {
       "Nation": "UKR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "19",
       "Starts": "13",
@@ -8184,7 +8151,7 @@
     },
     "João Cancelo": {
       "Nation": "POR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "17",
       "Starts": "13",
@@ -8210,7 +8177,7 @@
     },
     "John Stones": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "16",
       "Starts": "12",
@@ -8236,7 +8203,7 @@
     },
     "Phil Foden": {
       "Nation": "ENG",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "19",
       "Matches_Played": "23",
       "Starts": "9",
@@ -8262,7 +8229,7 @@
     },
     "Eric García": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "18",
       "Matches_Played": "13",
       "Starts": "8",
@@ -8288,7 +8255,7 @@
     },
     "Angeliño": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "6",
       "Starts": "4",
@@ -8314,7 +8281,7 @@
     },
     "Claudio Bravo": {
       "Nation": "CHI",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "36",
       "Matches_Played": "4",
       "Starts": "3",
@@ -8340,13 +8307,12 @@
       "Saves": "8",
       "Save_%": ".533",
       "Clean_sheet": "1",
-      "Defender_rating": -10.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 56
+      "Defender_rating": -10.0
     },
     "Thomas Doyle": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "17",
       "Matches_Played": "1",
       "Starts": "0",
@@ -8372,7 +8338,7 @@
     },
     "Leroy Sané": {
       "Nation": "GER",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "23",
       "Matches_Played": "1",
       "Starts": "0",
@@ -8398,7 +8364,7 @@
     },
     "Scott Carson": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "33",
       "Matches_Played": "0",
       "Starts": "0",
@@ -8412,13 +8378,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Taylor Harwood-Bellis": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "17",
       "Matches_Played": "0",
       "Starts": "0",
@@ -8437,7 +8402,7 @@
     },
     "Cole Palmer": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "17",
       "Matches_Played": "0",
       "Starts": "0",
@@ -8458,7 +8423,7 @@
   "Manchester Utd": {
     "David de Gea": {
       "Nation": "ESP",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "28",
       "Matches_Played": "38",
       "Starts": "38",
@@ -8484,13 +8449,12 @@
       "Saves": "92",
       "Save_%": ".736",
       "Clean_sheet": "13",
-      "Defender_rating": -19.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 168
+      "Defender_rating": -19.0
     },
     "Harry Maguire": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "38",
       "Starts": "38",
@@ -8516,7 +8480,7 @@
     },
     "Victor Lindelöf": {
       "Nation": "SWE",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "35",
       "Starts": "35",
@@ -8542,7 +8506,7 @@
     },
     "Aaron Wan-Bissaka": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "35",
       "Starts": "34",
@@ -8568,7 +8532,7 @@
     },
     "Marcus Rashford": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "21",
       "Matches_Played": "31",
       "Starts": "31",
@@ -8594,7 +8558,7 @@
     },
     "Anthony Martial": {
       "Nation": "FRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "23",
       "Matches_Played": "32",
       "Starts": "31",
@@ -8620,7 +8584,7 @@
     },
     "Daniel James": {
       "Nation": "WAL",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "21",
       "Matches_Played": "33",
       "Starts": "26",
@@ -8646,7 +8610,7 @@
     },
     "Fred": {
       "Nation": "BRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "26",
       "Matches_Played": "29",
       "Starts": "23",
@@ -8672,7 +8636,7 @@
     },
     "Scott McTominay": {
       "Nation": "SCO",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "22",
       "Matches_Played": "27",
       "Starts": "20",
@@ -8698,7 +8662,7 @@
     },
     "Luke Shaw": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "24",
       "Starts": "20",
@@ -8724,7 +8688,7 @@
     },
     "Nemanja Matić": {
       "Nation": "SRB",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "30",
       "Matches_Played": "21",
       "Starts": "18",
@@ -8750,7 +8714,7 @@
     },
     "Andreas Pereira": {
       "Nation": "BRA",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "23",
       "Matches_Played": "25",
       "Starts": "18",
@@ -8776,7 +8740,7 @@
     },
     "Bruno Fernandes": {
       "Nation": "POR",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "24",
       "Matches_Played": "14",
       "Starts": "14",
@@ -8802,7 +8766,7 @@
     },
     "Paul Pogba": {
       "Nation": "FRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "26",
       "Matches_Played": "16",
       "Starts": "13",
@@ -8828,7 +8792,7 @@
     },
     "Mason Greenwood": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "17",
       "Matches_Played": "31",
       "Starts": "12",
@@ -8854,7 +8818,7 @@
     },
     "Brandon Williams": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "18",
       "Matches_Played": "17",
       "Starts": "11",
@@ -8880,7 +8844,7 @@
     },
     "Ashley Young": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "34",
       "Matches_Played": "12",
       "Starts": "10",
@@ -8906,7 +8870,7 @@
     },
     "Jesse Lingard": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "26",
       "Matches_Played": "22",
       "Starts": "9",
@@ -8932,7 +8896,7 @@
     },
     "Juan Mata": {
       "Nation": "ESP",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "31",
       "Matches_Played": "19",
       "Starts": "8",
@@ -8958,7 +8922,7 @@
     },
     "Axel Tuanzebe": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "5",
       "Starts": "2",
@@ -8984,7 +8948,7 @@
     },
     "Timothy Fosu-Mensah": {
       "Nation": "NED",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "3",
       "Starts": "2",
@@ -9010,7 +8974,7 @@
     },
     "Phil Jones": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "2",
       "Starts": "2",
@@ -9036,7 +9000,7 @@
     },
     "Eric Bailly": {
       "Nation": "CIV",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "4",
       "Starts": "1",
@@ -9062,7 +9026,7 @@
     },
     "Marcos Rojo": {
       "Nation": "ARG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "3",
       "Starts": "1",
@@ -9088,7 +9052,7 @@
     },
     "Diogo Dalot": {
       "Nation": "POR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "20",
       "Matches_Played": "4",
       "Starts": "1",
@@ -9114,7 +9078,7 @@
     },
     "Odion Ighalo": {
       "Nation": "NGA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "30",
       "Matches_Played": "11",
       "Starts": "0",
@@ -9140,7 +9104,7 @@
     },
     "Tahith Chong": {
       "Nation": "NED",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "19",
       "Matches_Played": "3",
       "Starts": "0",
@@ -9166,7 +9130,7 @@
     },
     "Angel Gomes": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "18",
       "Matches_Played": "2",
       "Starts": "0",
@@ -9192,7 +9156,7 @@
     },
     "James Garner": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "18",
       "Matches_Played": "1",
       "Starts": "0",
@@ -9218,7 +9182,7 @@
     },
     "Lee Grant": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "36",
       "Matches_Played": "0",
       "Starts": "0",
@@ -9232,13 +9196,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Sergio Romero": {
       "Nation": "ARG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "32",
       "Matches_Played": "0",
       "Starts": "0",
@@ -9252,15 +9215,14 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     }
   },
   "Newcastle Utd": {
     "Martin Dúbravka": {
       "Nation": "SVK",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "30",
       "Matches_Played": "38",
       "Starts": "38",
@@ -9286,13 +9248,12 @@
       "Saves": "134",
       "Save_%": ".705",
       "Clean_sheet": "11",
-      "Defender_rating": -28.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 123
+      "Defender_rating": -28.0
     },
     "Miguel Almirón": {
       "Nation": "PAR",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "25",
       "Matches_Played": "36",
       "Starts": "35",
@@ -9318,7 +9279,7 @@
     },
     "Joelinton": {
       "Nation": "BRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "22",
       "Matches_Played": "38",
       "Starts": "32",
@@ -9344,7 +9305,7 @@
     },
     "Federico Fernández": {
       "Nation": "ARG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "32",
       "Starts": "29",
@@ -9370,7 +9331,7 @@
     },
     "Isaac Hayden": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "24",
       "Matches_Played": "29",
       "Starts": "26",
@@ -9396,7 +9357,7 @@
     },
     "Jonjo Shelvey": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "26",
       "Starts": "25",
@@ -9422,7 +9383,7 @@
     },
     "Jamaal Lascelles": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "24",
       "Starts": "24",
@@ -9448,7 +9409,7 @@
     },
     "Allan Saint-Maximin": {
       "Nation": "FRA",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "22",
       "Matches_Played": "26",
       "Starts": "23",
@@ -9474,7 +9435,7 @@
     },
     "Fabian Schär": {
       "Nation": "SUI",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "27",
       "Matches_Played": "22",
       "Starts": "18",
@@ -9500,7 +9461,7 @@
     },
     "Javier Manquillo": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "21",
       "Starts": "18",
@@ -9526,7 +9487,7 @@
     },
     "Jetro Willems": {
       "Nation": "NED",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "19",
       "Starts": "18",
@@ -9552,7 +9513,7 @@
     },
     "Sean Longstaff": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "21",
       "Matches_Played": "23",
       "Starts": "14",
@@ -9578,7 +9539,7 @@
     },
     "Matt Ritchie": {
       "Nation": "SCO",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "29",
       "Matches_Played": "18",
       "Starts": "14",
@@ -9604,7 +9565,7 @@
     },
     "Paul Dummett": {
       "Nation": "WAL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "16",
       "Starts": "14",
@@ -9630,7 +9591,7 @@
     },
     "Ciaran Clark": {
       "Nation": "IRL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "14",
       "Starts": "14",
@@ -9656,7 +9617,7 @@
     },
     "Emil Krafth": {
       "Nation": "SWE",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "24",
       "Matches_Played": "17",
       "Starts": "11",
@@ -9682,7 +9643,7 @@
     },
     "DeAndre Yedlin": {
       "Nation": "USA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "16",
       "Starts": "10",
@@ -9708,7 +9669,7 @@
     },
     "Danny Rose": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "11",
       "Starts": "10",
@@ -9734,7 +9695,7 @@
     },
     "Dwight Gayle": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "28",
       "Matches_Played": "20",
       "Starts": "10",
@@ -9760,7 +9721,7 @@
     },
     "Nabil Bentaleb": {
       "Nation": "ALG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "24",
       "Matches_Played": "12",
       "Starts": "8",
@@ -9786,7 +9747,7 @@
     },
     "Christian Atsu": {
       "Nation": "GHA",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "27",
       "Matches_Played": "19",
       "Starts": "6",
@@ -9812,7 +9773,7 @@
     },
     "Matthew Longstaff": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "9",
       "Starts": "6",
@@ -9838,7 +9799,7 @@
     },
     "Andy Carroll": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "30",
       "Matches_Played": "19",
       "Starts": "4",
@@ -9864,7 +9825,7 @@
     },
     "Valentino Lazaro": {
       "Nation": "AUT",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "23",
       "Matches_Played": "13",
       "Starts": "4",
@@ -9890,7 +9851,7 @@
     },
     "Florian Lejeune": {
       "Nation": "FRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "28",
       "Matches_Played": "6",
       "Starts": "4",
@@ -9916,7 +9877,7 @@
     },
     "Yoshinori Mutō": {
       "Nation": "JPN",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "27",
       "Matches_Played": "8",
       "Starts": "2",
@@ -9942,7 +9903,7 @@
     },
     "Ki Sung-yueng": {
       "Nation": "KOR",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "30",
       "Matches_Played": "3",
       "Starts": "1",
@@ -9968,7 +9929,7 @@
     },
     "Kelland Watts": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "19",
       "Matches_Played": "1",
       "Starts": "0",
@@ -9994,7 +9955,7 @@
     },
     "Thomas Allan": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -10013,7 +9974,7 @@
     },
     "Karl Darlow": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "28",
       "Matches_Played": "0",
       "Starts": "0",
@@ -10027,13 +9988,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Rob Elliot": {
       "Nation": "IRL",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "33",
       "Matches_Played": "0",
       "Starts": "0",
@@ -10047,13 +10007,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Liam Gibson": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "0",
       "Starts": "0",
@@ -10072,7 +10031,7 @@
     },
     "Jack Young": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "18",
       "Matches_Played": "0",
       "Starts": "0",
@@ -10093,7 +10052,7 @@
   "Norwich City": {
     "Max Aarons": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "19",
       "Matches_Played": "36",
       "Starts": "36",
@@ -10119,7 +10078,7 @@
     },
     "Tim Krul": {
       "Nation": "NED",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "31",
       "Matches_Played": "36",
       "Starts": "36",
@@ -10145,13 +10104,12 @@
       "Saves": "123",
       "Save_%": ".656",
       "Clean_sheet": "5",
-      "Defender_rating": -8.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 48
+      "Defender_rating": -8.0
     },
     "Teemu Pukki": {
       "Nation": "FIN",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "29",
       "Matches_Played": "36",
       "Starts": "33",
@@ -10177,7 +10135,7 @@
     },
     "Kenny McLean": {
       "Nation": "SCO",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "37",
       "Starts": "32",
@@ -10203,7 +10161,7 @@
     },
     "Ben Godfrey": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "30",
       "Starts": "30",
@@ -10229,7 +10187,7 @@
     },
     "Todd Cantwell": {
       "Nation": "ENG",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "21",
       "Matches_Played": "37",
       "Starts": "30",
@@ -10255,7 +10213,7 @@
     },
     "Emi Buendía": {
       "Nation": "ARG",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "22",
       "Matches_Played": "36",
       "Starts": "28",
@@ -10281,7 +10239,7 @@
     },
     "Alexander Tettey": {
       "Nation": "NOR",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "33",
       "Matches_Played": "30",
       "Starts": "28",
@@ -10307,7 +10265,7 @@
     },
     "Jamal Lewis": {
       "Nation": "NIR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "28",
       "Starts": "25",
@@ -10333,7 +10291,7 @@
     },
     "Christoph Zimmermann": {
       "Nation": "GER",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "17",
       "Starts": "16",
@@ -10359,7 +10317,7 @@
     },
     "Sam Byram": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "17",
       "Starts": "15",
@@ -10385,7 +10343,7 @@
     },
     "Onel Hernández": {
       "Nation": "CUB",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "26",
       "Matches_Played": "26",
       "Starts": "14",
@@ -10411,7 +10369,7 @@
     },
     "Grant Hanley": {
       "Nation": "SCO",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "15",
       "Starts": "14",
@@ -10437,7 +10395,7 @@
     },
     "Marco Stiepermann": {
       "Nation": "GER",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "24",
       "Starts": "14",
@@ -10463,7 +10421,7 @@
     },
     "Tom Trybull": {
       "Nation": "GER",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "26",
       "Matches_Played": "16",
       "Starts": "14",
@@ -10489,7 +10447,7 @@
     },
     "Ondrej Duda": {
       "Nation": "SVK",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "24",
       "Matches_Played": "10",
       "Starts": "9",
@@ -10515,7 +10473,7 @@
     },
     "Ibrahim Amadou": {
       "Nation": "FRA",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "26",
       "Matches_Played": "11",
       "Starts": "8",
@@ -10541,7 +10499,7 @@
     },
     "Lukas Rupp": {
       "Nation": "GER",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "28",
       "Matches_Played": "12",
       "Starts": "8",
@@ -10567,7 +10525,7 @@
     },
     "Moritz Leitner": {
       "Nation": "GER",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "26",
       "Matches_Played": "9",
       "Starts": "7",
@@ -10593,7 +10551,7 @@
     },
     "Timm Klose": {
       "Nation": "SUI",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "31",
       "Matches_Played": "7",
       "Starts": "7",
@@ -10619,7 +10577,7 @@
     },
     "Mario Vrančić": {
       "Nation": "BIH",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "30",
       "Matches_Played": "20",
       "Starts": "6",
@@ -10645,7 +10603,7 @@
     },
     "Josip Drmić": {
       "Nation": "SUI",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "26",
       "Matches_Played": "21",
       "Starts": "5",
@@ -10671,7 +10629,7 @@
     },
     "Adam Idah": {
       "Nation": "IRL",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "18",
       "Matches_Played": "12",
       "Starts": "1",
@@ -10697,7 +10655,7 @@
     },
     "Michael McGovern": {
       "Nation": "NIR",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "35",
       "Matches_Played": "2",
       "Starts": "1",
@@ -10723,13 +10681,12 @@
       "Saves": "5",
       "Save_%": ".455",
       "Clean_sheet": "0",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 40
+      "Defender_rating": 0.0
     },
     "Ralf Fährmann": {
       "Nation": "GER",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "30",
       "Matches_Played": "1",
       "Starts": "1",
@@ -10755,13 +10712,12 @@
       "Saves": "1",
       "Save_%": "1.000",
       "Clean_sheet": "0",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 99
+      "Defender_rating": 0.0
     },
     "Dennis Srbeny": {
       "Nation": "GER",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "25",
       "Matches_Played": "8",
       "Starts": "0",
@@ -10787,7 +10743,7 @@
     },
     "Josh Martin": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "17",
       "Matches_Played": "5",
       "Starts": "0",
@@ -10813,7 +10769,7 @@
     },
     "Patrick Roberts": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "22",
       "Matches_Played": "3",
       "Starts": "0",
@@ -10839,7 +10795,7 @@
     },
     "Akin Famewo": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "20",
       "Matches_Played": "1",
       "Starts": "0",
@@ -10865,7 +10821,7 @@
     },
     "Jordan Thomas": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "",
       "Matches_Played": "1",
       "Starts": "0",
@@ -10891,7 +10847,7 @@
     },
     "Daniel Adshead": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "17",
       "Matches_Played": "0",
       "Starts": "0",
@@ -10910,7 +10866,7 @@
     },
     "Philip Heise": {
       "Nation": "GER",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "28",
       "Matches_Played": "0",
       "Starts": "0",
@@ -10929,7 +10885,7 @@
     },
     "Archie Mair": {
       "Nation": "SCO",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "18",
       "Matches_Played": "0",
       "Starts": "0",
@@ -10943,15 +10899,14 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     }
   },
   "Sheffield Utd": {
     "George Baldock": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "38",
       "Starts": "38",
@@ -10977,7 +10932,7 @@
     },
     "Enda Stevens": {
       "Nation": "IRL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "38",
       "Starts": "38",
@@ -11003,7 +10958,7 @@
     },
     "Chris Basham": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "31",
       "Matches_Played": "38",
       "Starts": "38",
@@ -11029,7 +10984,7 @@
     },
     "Oliver Norwood": {
       "Nation": "NIR",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "38",
       "Starts": "37",
@@ -11055,7 +11010,7 @@
     },
     "Dean Henderson": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "22",
       "Matches_Played": "36",
       "Starts": "36",
@@ -11081,13 +11036,12 @@
       "Saves": "97",
       "Save_%": ".752",
       "Clean_sheet": "13",
-      "Defender_rating": 3.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 172
+      "Defender_rating": 3.0
     },
     "John Egan": {
       "Nation": "IRL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "36",
       "Starts": "36",
@@ -11113,7 +11067,7 @@
     },
     "Jack O'Connell": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "33",
       "Starts": "32",
@@ -11139,7 +11093,7 @@
     },
     "John Fleck": {
       "Nation": "SCO",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "30",
       "Starts": "28",
@@ -11165,7 +11119,7 @@
     },
     "John Lundstram": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "25",
       "Matches_Played": "34",
       "Starts": "26",
@@ -11191,7 +11145,7 @@
     },
     "Oliver McBurnie": {
       "Nation": "SCO",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "23",
       "Matches_Played": "36",
       "Starts": "24",
@@ -11217,7 +11171,7 @@
     },
     "David McGoldrick": {
       "Nation": "IRL",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "31",
       "Matches_Played": "28",
       "Starts": "22",
@@ -11243,7 +11197,7 @@
     },
     "Sander Berge": {
       "Nation": "NOR",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "21",
       "Matches_Played": "14",
       "Starts": "12",
@@ -11269,7 +11223,7 @@
     },
     "Lys Mousset": {
       "Nation": "FRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "23",
       "Matches_Played": "30",
       "Starts": "11",
@@ -11295,7 +11249,7 @@
     },
     "Billy Sharp": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "33",
       "Matches_Played": "25",
       "Starts": "10",
@@ -11321,7 +11275,7 @@
     },
     "Callum Robinson": {
       "Nation": "IRL",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "24",
       "Matches_Played": "16",
       "Starts": "9",
@@ -11347,7 +11301,7 @@
     },
     "Ben Osborn": {
       "Nation": "ENG",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "24",
       "Matches_Played": "13",
       "Starts": "6",
@@ -11373,7 +11327,7 @@
     },
     "Jack Robinson": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "6",
       "Starts": "6",
@@ -11399,7 +11353,7 @@
     },
     "Luke Freeman": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "11",
       "Starts": "3",
@@ -11425,7 +11379,7 @@
     },
     "Muhamed Bešić": {
       "Nation": "BIH",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "26",
       "Matches_Played": "9",
       "Starts": "2",
@@ -11451,7 +11405,7 @@
     },
     "Phil Jagielka": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "36",
       "Matches_Played": "6",
       "Starts": "2",
@@ -11477,7 +11431,7 @@
     },
     "Simon Moore": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "29",
       "Matches_Played": "2",
       "Starts": "2",
@@ -11503,13 +11457,12 @@
       "Saves": "6",
       "Save_%": ".500",
       "Clean_sheet": "0",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 44
+      "Defender_rating": 0.0
     },
     "Richairo Živković": {
       "Nation": "NED",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "22",
       "Matches_Played": "5",
       "Starts": "0",
@@ -11535,7 +11488,7 @@
     },
     "Leon Clarke": {
       "Nation": "ENG",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "34",
       "Matches_Played": "2",
       "Starts": "0",
@@ -11561,7 +11514,7 @@
     },
     "Jack Rodwell": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "1",
       "Starts": "0",
@@ -11587,7 +11540,7 @@
     },
     "Ravel Morrison": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "26",
       "Matches_Played": "1",
       "Starts": "0",
@@ -11613,7 +11566,7 @@
     },
     "Kieron Freeman": {
       "Nation": "WAL",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "27",
       "Matches_Played": "2",
       "Starts": "0",
@@ -11639,7 +11592,7 @@
     },
     "Jake Eastwood": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "22",
       "Matches_Played": "0",
       "Starts": "0",
@@ -11653,13 +11606,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Panagiotis Retsos": {
       "Nation": "GRE",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -11678,7 +11630,7 @@
     },
     "Richard Stearman": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "31",
       "Matches_Played": "0",
       "Starts": "0",
@@ -11697,7 +11649,7 @@
     },
     "Michael Verrips": {
       "Nation": "NED",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "22",
       "Matches_Played": "0",
       "Starts": "0",
@@ -11711,15 +11663,14 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     }
   },
   "Southampton": {
     "James Ward-Prowse": {
       "Nation": "ENG",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "24",
       "Matches_Played": "38",
       "Starts": "38",
@@ -11745,7 +11696,7 @@
     },
     "Jan Bednarek": {
       "Nation": "POL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "23",
       "Matches_Played": "34",
       "Starts": "34",
@@ -11771,7 +11722,7 @@
     },
     "Danny Ings": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "27",
       "Matches_Played": "38",
       "Starts": "32",
@@ -11797,7 +11748,7 @@
     },
     "Nathan Redmond": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "25",
       "Matches_Played": "32",
       "Starts": "32",
@@ -11823,7 +11774,7 @@
     },
     "Ryan Bertrand": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "32",
       "Starts": "31",
@@ -11849,7 +11800,7 @@
     },
     "Pierre Højbjerg": {
       "Nation": "DEN",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "23",
       "Matches_Played": "33",
       "Starts": "30",
@@ -11875,7 +11826,7 @@
     },
     "Alex McCarthy": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "29",
       "Matches_Played": "28",
       "Starts": "28",
@@ -11901,13 +11852,12 @@
       "Saves": "77",
       "Save_%": ".691",
       "Clean_sheet": "7",
-      "Defender_rating": -20.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 104
+      "Defender_rating": -20.0
     },
     "Jack Stephens": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "28",
       "Starts": "27",
@@ -11933,7 +11883,7 @@
     },
     "Oriol Romeu": {
       "Nation": "ESP",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "30",
       "Starts": "20",
@@ -11959,7 +11909,7 @@
     },
     "Stuart Armstrong": {
       "Nation": "SCO",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "30",
       "Starts": "19",
@@ -11985,7 +11935,7 @@
     },
     "Jannik Vestergaard": {
       "Nation": "DEN",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "19",
       "Starts": "17",
@@ -12011,7 +11961,7 @@
     },
     "Cédric Soares": {
       "Nation": "POR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "16",
       "Starts": "16",
@@ -12037,7 +11987,7 @@
     },
     "Shane Long": {
       "Nation": "IRL",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "32",
       "Matches_Played": "26",
       "Starts": "15",
@@ -12063,7 +12013,7 @@
     },
     "Che Adams": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "23",
       "Matches_Played": "30",
       "Starts": "12",
@@ -12089,7 +12039,7 @@
     },
     "Moussa Djenepo": {
       "Nation": "MLI",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "21",
       "Matches_Played": "18",
       "Starts": "10",
@@ -12115,7 +12065,7 @@
     },
     "Angus Gunn": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "23",
       "Matches_Played": "10",
       "Starts": "10",
@@ -12141,13 +12091,12 @@
       "Saves": "30",
       "Save_%": ".566",
       "Clean_sheet": "2",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 52
+      "Defender_rating": 0.0
     },
     "Yan Valery": {
       "Nation": "FRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "20",
       "Matches_Played": "11",
       "Starts": "10",
@@ -12173,7 +12122,7 @@
     },
     "Sofiane Boufal": {
       "Nation": "MAR",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "25",
       "Matches_Played": "20",
       "Starts": "8",
@@ -12199,7 +12148,7 @@
     },
     "Michael Obafemi": {
       "Nation": "IRL",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "19",
       "Matches_Played": "21",
       "Starts": "8",
@@ -12225,7 +12174,7 @@
     },
     "Kyle Walker-Peters": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "10",
       "Starts": "7",
@@ -12251,7 +12200,7 @@
     },
     "Maya Yoshida": {
       "Nation": "JPN",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "8",
       "Starts": "6",
@@ -12277,7 +12226,7 @@
     },
     "William Smallbone": {
       "Nation": "IRL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "9",
       "Starts": "4",
@@ -12303,7 +12252,7 @@
     },
     "Kevin Danso": {
       "Nation": "AUT",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "20",
       "Matches_Played": "6",
       "Starts": "3",
@@ -12329,7 +12278,7 @@
     },
     "Jake Vokins": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "19",
       "Matches_Played": "1",
       "Starts": "1",
@@ -12355,7 +12304,7 @@
     },
     "Nathan Tella": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "20",
       "Matches_Played": "1",
       "Starts": "0",
@@ -12381,7 +12330,7 @@
     },
     "Will Ferry": {
       "Nation": "IRL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "17",
       "Matches_Played": "0",
       "Starts": "0",
@@ -12400,7 +12349,7 @@
     },
     "Fraser Forster": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "31",
       "Matches_Played": "0",
       "Starts": "0",
@@ -12414,13 +12363,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Alexandre Jankewitz": {
       "Nation": "SUI",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "17",
       "Matches_Played": "0",
       "Starts": "0",
@@ -12439,7 +12387,7 @@
     },
     "Harry Lewis": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "21",
       "Matches_Played": "0",
       "Starts": "0",
@@ -12453,13 +12401,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Jacob Maddox": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -12478,7 +12425,7 @@
     },
     "Dan Nlundulu": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -12499,7 +12446,7 @@
   "Tottenham": {
     "Toby Alderweireld": {
       "Nation": "BEL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "33",
       "Starts": "33",
@@ -12525,7 +12472,7 @@
     },
     "Serge Aurier": {
       "Nation": "CIV",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "33",
       "Starts": "31",
@@ -12551,7 +12498,7 @@
     },
     "Harry Kane": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "26",
       "Matches_Played": "29",
       "Starts": "29",
@@ -12577,7 +12524,7 @@
     },
     "Son Heung-min": {
       "Nation": "KOR",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "27",
       "Matches_Played": "30",
       "Starts": "28",
@@ -12603,7 +12550,7 @@
     },
     "Moussa Sissoko": {
       "Nation": "FRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "29",
       "Matches_Played": "29",
       "Starts": "28",
@@ -12629,7 +12576,7 @@
     },
     "Davinson Sánchez": {
       "Nation": "COL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "23",
       "Matches_Played": "29",
       "Starts": "27",
@@ -12655,7 +12602,7 @@
     },
     "Harry Winks": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "23",
       "Matches_Played": "31",
       "Starts": "26",
@@ -12681,7 +12628,7 @@
     },
     "Lucas Moura": {
       "Nation": "BRA",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "26",
       "Matches_Played": "35",
       "Starts": "25",
@@ -12707,7 +12654,7 @@
     },
     "Dele Alli": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "23",
       "Matches_Played": "25",
       "Starts": "21",
@@ -12733,7 +12680,7 @@
     },
     "Hugo Lloris": {
       "Nation": "FRA",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "32",
       "Matches_Played": "21",
       "Starts": "21",
@@ -12759,13 +12706,12 @@
       "Saves": "74",
       "Save_%": ".796",
       "Clean_sheet": "6",
-      "Defender_rating": -18.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 119
+      "Defender_rating": -18.0
     },
     "Jan Vertonghen": {
       "Nation": "BEL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "32",
       "Matches_Played": "23",
       "Starts": "19",
@@ -12791,7 +12737,7 @@
     },
     "Paulo Gazzaniga": {
       "Nation": "ARG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "27",
       "Matches_Played": "18",
       "Starts": "17",
@@ -12817,13 +12763,12 @@
       "Saves": "56",
       "Save_%": ".709",
       "Clean_sheet": "2",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 65
+      "Defender_rating": 0.0
     },
     "Ben Davies": {
       "Nation": "WAL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "18",
       "Starts": "16",
@@ -12849,7 +12794,7 @@
     },
     "Giovani Lo Celso": {
       "Nation": "ARG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "23",
       "Matches_Played": "28",
       "Starts": "15",
@@ -12875,7 +12820,7 @@
     },
     "Eric Dier": {
       "Nation": "ENG",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "25",
       "Matches_Played": "19",
       "Starts": "15",
@@ -12901,7 +12846,7 @@
     },
     "Érik Lamela": {
       "Nation": "ARG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "27",
       "Matches_Played": "25",
       "Starts": "12",
@@ -12927,7 +12872,7 @@
     },
     "Tanguy Ndombele": {
       "Nation": "FRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "22",
       "Matches_Played": "21",
       "Starts": "12",
@@ -12953,7 +12898,7 @@
     },
     "Christian Eriksen": {
       "Nation": "DEN",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "27",
       "Matches_Played": "20",
       "Starts": "10",
@@ -12979,7 +12924,7 @@
     },
     "Danny Rose": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "12",
       "Starts": "10",
@@ -13005,7 +12950,7 @@
     },
     "Steven Bergwijn": {
       "Nation": "NED",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "21",
       "Matches_Played": "14",
       "Starts": "8",
@@ -13031,7 +12976,7 @@
     },
     "Japhet Tanganga": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "20",
       "Matches_Played": "6",
       "Starts": "6",
@@ -13057,7 +13002,7 @@
     },
     "Ryan Sessegnon": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "19",
       "Matches_Played": "6",
       "Starts": "4",
@@ -13083,7 +13028,7 @@
     },
     "Kyle Walker-Peters": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "3",
       "Starts": "3",
@@ -13109,7 +13054,7 @@
     },
     "Oliver Skipp": {
       "Nation": "ENG",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "18",
       "Matches_Played": "7",
       "Starts": "1",
@@ -13135,7 +13080,7 @@
     },
     "Juan Foyth": {
       "Nation": "ARG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "21",
       "Matches_Played": "4",
       "Starts": "1",
@@ -13161,7 +13106,7 @@
     },
     "Gedson Fernandes": {
       "Nation": "POR",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "20",
       "Matches_Played": "7",
       "Starts": "0",
@@ -13187,7 +13132,7 @@
     },
     "Victor Wanyama": {
       "Nation": "KEN",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "28",
       "Matches_Played": "2",
       "Starts": "0",
@@ -13213,7 +13158,7 @@
     },
     "Troy Parrott": {
       "Nation": "IRL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "17",
       "Matches_Played": "2",
       "Starts": "0",
@@ -13239,7 +13184,7 @@
     },
     "Georges-Kévin N'Koudou": {
       "Nation": "FRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "24",
       "Matches_Played": "1",
       "Starts": "0",
@@ -13265,7 +13210,7 @@
     },
     "Brandon Austin": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -13279,13 +13224,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Dennis Cirken": {
       "Nation": "IRL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "17",
       "Matches_Played": "0",
       "Starts": "0",
@@ -13304,7 +13248,7 @@
     },
     "Michel Vorm": {
       "Nation": "NED",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "35",
       "Matches_Played": "0",
       "Starts": "0",
@@ -13318,13 +13262,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Harvey White": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "17",
       "Matches_Played": "0",
       "Starts": "0",
@@ -13343,7 +13286,7 @@
     },
     "Alfie Whiteman": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -13357,15 +13300,14 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     }
   },
   "Watford": {
     "Ben Foster": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "36",
       "Matches_Played": "38",
       "Starts": "38",
@@ -13391,13 +13333,12 @@
       "Saves": "109",
       "Save_%": ".663",
       "Clean_sheet": "9",
-      "Defender_rating": -18.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 92
+      "Defender_rating": -18.0
     },
     "Abdoulaye Doucouré": {
       "Nation": "FRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "26",
       "Matches_Played": "37",
       "Starts": "36",
@@ -13423,7 +13364,7 @@
     },
     "Étienne Capoue": {
       "Nation": "FRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "31",
       "Matches_Played": "30",
       "Starts": "30",
@@ -13449,7 +13390,7 @@
     },
     "Craig Cathcart": {
       "Nation": "NIR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "29",
       "Starts": "28",
@@ -13475,7 +13416,7 @@
     },
     "Will Hughes": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "24",
       "Matches_Played": "30",
       "Starts": "27",
@@ -13501,7 +13442,7 @@
     },
     "Craig Dawson": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "29",
       "Starts": "26",
@@ -13527,7 +13468,7 @@
     },
     "Christian Kabasele": {
       "Nation": "BEL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "28",
       "Matches_Played": "27",
       "Starts": "26",
@@ -13553,7 +13494,7 @@
     },
     "Kiko Femenía": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "28",
       "Matches_Played": "28",
       "Starts": "26",
@@ -13579,7 +13520,7 @@
     },
     "Troy Deeney": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "31",
       "Matches_Played": "27",
       "Starts": "26",
@@ -13605,7 +13546,7 @@
     },
     "Gerard Deulofeu": {
       "Nation": "ESP",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "25",
       "Matches_Played": "28",
       "Starts": "25",
@@ -13631,7 +13572,7 @@
     },
     "Ismaila Sarr": {
       "Nation": "SEN",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "21",
       "Matches_Played": "28",
       "Starts": "22",
@@ -13657,7 +13598,7 @@
     },
     "Adam Masina": {
       "Nation": "ITA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "26",
       "Starts": "20",
@@ -13683,7 +13624,7 @@
     },
     "Roberto Pereyra": {
       "Nation": "ARG",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "28",
       "Matches_Played": "28",
       "Starts": "17",
@@ -13709,7 +13650,7 @@
     },
     "Adrian Mariappa": {
       "Nation": "JAM",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "32",
       "Matches_Played": "20",
       "Starts": "15",
@@ -13735,7 +13676,7 @@
     },
     "José Holebas": {
       "Nation": "GRE",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "35",
       "Matches_Played": "14",
       "Starts": "11",
@@ -13761,7 +13702,7 @@
     },
     "Tom Cleverley": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "29",
       "Matches_Played": "18",
       "Starts": "11",
@@ -13787,7 +13728,7 @@
     },
     "Nathaniel Chalobah": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "24",
       "Matches_Played": "22",
       "Starts": "10",
@@ -13813,7 +13754,7 @@
     },
     "Danny Welbeck": {
       "Nation": "ENG",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "28",
       "Matches_Played": "18",
       "Starts": "8",
@@ -13839,7 +13780,7 @@
     },
     "Andre Gray": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "28",
       "Matches_Played": "23",
       "Starts": "7",
@@ -13865,7 +13806,7 @@
     },
     "Daryl Janmaat": {
       "Nation": "NED",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "30",
       "Matches_Played": "8",
       "Starts": "7",
@@ -13891,7 +13832,7 @@
     },
     "Dimitri Foulquier": {
       "Nation": "FRA",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "26",
       "Matches_Played": "3",
       "Starts": "1",
@@ -13917,7 +13858,7 @@
     },
     "Sebastian Prödl": {
       "Nation": "AUT",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "32",
       "Matches_Played": "1",
       "Starts": "1",
@@ -13943,7 +13884,7 @@
     },
     "Ignacio Pussetto": {
       "Nation": "ARG",
-      "Poition": "FW,DF",
+      "Position": "FW,DF",
       "Age": "23",
       "Matches_Played": "7",
       "Starts": "0",
@@ -13969,7 +13910,7 @@
     },
     "Isaac Success": {
       "Nation": "NGA",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "23",
       "Matches_Played": "5",
       "Starts": "0",
@@ -13995,7 +13936,7 @@
     },
     "João Pedro": {
       "Nation": "BRA",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "17",
       "Matches_Played": "3",
       "Starts": "0",
@@ -14021,7 +13962,7 @@
     },
     "Domingos Quina": {
       "Nation": "POR",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "4",
       "Starts": "0",
@@ -14047,7 +13988,7 @@
     },
     "Tom Dele-Bashiru": {
       "Nation": "NGA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -14066,7 +14007,7 @@
     },
     "Heurelho Gomes": {
       "Nation": "BRA",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "38",
       "Matches_Played": "0",
       "Starts": "0",
@@ -14080,13 +14021,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Adalberto Peñaranda": {
       "Nation": "VEN",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "22",
       "Matches_Played": "0",
       "Starts": "0",
@@ -14105,7 +14045,7 @@
     },
     "Ken Sema": {
       "Nation": "SWE",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "25",
       "Matches_Played": "0",
       "Starts": "0",
@@ -14126,7 +14066,7 @@
   "West Ham": {
     "Declan Rice": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "20",
       "Matches_Played": "38",
       "Starts": "38",
@@ -14152,7 +14092,7 @@
     },
     "Mark Noble": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "32",
       "Matches_Played": "33",
       "Starts": "32",
@@ -14178,7 +14118,7 @@
     },
     "Angelo Ogbonna": {
       "Nation": "ITA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "31",
       "Matches_Played": "31",
       "Starts": "31",
@@ -14204,7 +14144,7 @@
     },
     "Issa Diop": {
       "Nation": "FRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "32",
       "Starts": "31",
@@ -14230,7 +14170,7 @@
     },
     "Aaron Cresswell": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "31",
       "Starts": "31",
@@ -14256,7 +14196,7 @@
     },
     "Ryan Fredericks": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "27",
       "Starts": "25",
@@ -14282,7 +14222,7 @@
     },
     "Łukasz Fabiański": {
       "Nation": "POL",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "34",
       "Matches_Played": "25",
       "Starts": "25",
@@ -14308,13 +14248,12 @@
       "Saves": "69",
       "Save_%": ".684",
       "Clean_sheet": "5",
-      "Defender_rating": -17.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 84
+      "Defender_rating": -17.0
     },
     "Sébastien Haller": {
       "Nation": "FRA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "25",
       "Matches_Played": "32",
       "Starts": "24",
@@ -14340,7 +14279,7 @@
     },
     "Pablo Fornals": {
       "Nation": "ESP",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "23",
       "Matches_Played": "36",
       "Starts": "24",
@@ -14366,7 +14305,7 @@
     },
     "Felipe Anderson": {
       "Nation": "BRA",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "26",
       "Matches_Played": "25",
       "Starts": "20",
@@ -14392,7 +14331,7 @@
     },
     "Michail Antonio": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "29",
       "Matches_Played": "24",
       "Starts": "19",
@@ -14418,7 +14357,7 @@
     },
     "Robert Snodgrass": {
       "Nation": "SCO",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "31",
       "Matches_Played": "24",
       "Starts": "17",
@@ -14444,7 +14383,7 @@
     },
     "Manuel Lanzini": {
       "Nation": "ARG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "26",
       "Matches_Played": "24",
       "Starts": "14",
@@ -14470,7 +14409,7 @@
     },
     "Fabián Balbuena": {
       "Nation": "PAR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "17",
       "Starts": "13",
@@ -14496,7 +14435,7 @@
     },
     "Tomáš Souček": {
       "Nation": "CZE",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "24",
       "Matches_Played": "13",
       "Starts": "12",
@@ -14522,7 +14461,7 @@
     },
     "Jarrod Bowen": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "22",
       "Matches_Played": "13",
       "Starts": "11",
@@ -14548,7 +14487,7 @@
     },
     "Andriy Yarmolenko": {
       "Nation": "UKR",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "29",
       "Matches_Played": "23",
       "Starts": "10",
@@ -14574,7 +14513,7 @@
     },
     "Arthur Masuaku": {
       "Nation": "COD",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "17",
       "Starts": "10",
@@ -14600,7 +14539,7 @@
     },
     "Roberto": {
       "Nation": "ESP",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "33",
       "Matches_Played": "8",
       "Starts": "7",
@@ -14626,13 +14565,12 @@
       "Saves": "36",
       "Save_%": ".686",
       "Clean_sheet": "0",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 52
+      "Defender_rating": 0.0
     },
     "Pablo Zabaleta": {
       "Nation": "ARG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "34",
       "Matches_Played": "10",
       "Starts": "6",
@@ -14658,7 +14596,7 @@
     },
     "Jeremy Ngakia": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "18",
       "Matches_Played": "5",
       "Starts": "5",
@@ -14684,7 +14622,7 @@
     },
     "David Martin": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "33",
       "Matches_Played": "5",
       "Starts": "4",
@@ -14710,13 +14648,12 @@
       "Saves": "14",
       "Save_%": ".700",
       "Clean_sheet": "2",
-      "Defender_rating": -10.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 84
+      "Defender_rating": -10.0
     },
     "Ben Johnson": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "19",
       "Matches_Played": "3",
       "Starts": "3",
@@ -14742,7 +14679,7 @@
     },
     "Jack Wilshere": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "27",
       "Matches_Played": "8",
       "Starts": "2",
@@ -14768,7 +14705,7 @@
     },
     "Darren Randolph": {
       "Nation": "IRL",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "32",
       "Matches_Played": "2",
       "Starts": "2",
@@ -14794,13 +14731,12 @@
       "Saves": "5",
       "Save_%": ".556",
       "Clean_sheet": "0",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 51
+      "Defender_rating": 0.0
     },
     "Carlos Sánchez": {
       "Nation": "COL",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "33",
       "Matches_Played": "6",
       "Starts": "1",
@@ -14826,7 +14762,7 @@
     },
     "Javier Hernández": {
       "Nation": "MEX",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "31",
       "Matches_Played": "2",
       "Starts": "1",
@@ -14852,7 +14788,7 @@
     },
     "Albian Ajeti": {
       "Nation": "SUI",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "22",
       "Matches_Played": "9",
       "Starts": "0",
@@ -14878,7 +14814,7 @@
     },
     "Nathan Holland": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "21",
       "Matches_Played": "2",
       "Starts": "0",
@@ -14904,7 +14840,7 @@
     },
     "Joseph Anang": {
       "Nation": "GHA",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -14918,13 +14854,12 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     },
     "Gonçalo Cardoso": {
       "Nation": "POR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "18",
       "Matches_Played": "0",
       "Starts": "0",
@@ -14943,7 +14878,7 @@
     },
     "Conor Coventry": {
       "Nation": "IRL",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -14962,7 +14897,7 @@
     },
     "Bernardo Costa Da Rosa": {
       "Nation": "BRA",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "18",
       "Matches_Played": "0",
       "Starts": "0",
@@ -14981,7 +14916,7 @@
     },
     "Alfie Lewis": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -15000,7 +14935,7 @@
     },
     "Winston Reid": {
       "Nation": "NZL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "31",
       "Matches_Played": "0",
       "Starts": "0",
@@ -15019,7 +14954,7 @@
     },
     "Xande Silva": {
       "Nation": "POR",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "22",
       "Matches_Played": "0",
       "Starts": "0",
@@ -15040,7 +14975,7 @@
   "Wolves": {
     "Conor Coady": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "26",
       "Matches_Played": "38",
       "Starts": "38",
@@ -15066,7 +15001,7 @@
     },
     "Rui Patrício": {
       "Nation": "POR",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "31",
       "Matches_Played": "38",
       "Starts": "38",
@@ -15092,13 +15027,12 @@
       "Saves": "80",
       "Save_%": ".675",
       "Clean_sheet": "13",
-      "Defender_rating": -7.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 158
+      "Defender_rating": -7.0
     },
     "Raúl Jiménez": {
       "Nation": "MEX",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "28",
       "Matches_Played": "38",
       "Starts": "37",
@@ -15124,7 +15058,7 @@
     },
     "Rúben Neves": {
       "Nation": "POR",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "22",
       "Matches_Played": "38",
       "Starts": "35",
@@ -15150,7 +15084,7 @@
     },
     "João Moutinho": {
       "Nation": "POR",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "32",
       "Matches_Played": "38",
       "Starts": "34",
@@ -15176,7 +15110,7 @@
     },
     "Jonny Castro": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "25",
       "Matches_Played": "35",
       "Starts": "33",
@@ -15202,7 +15136,7 @@
     },
     "Matt Doherty": {
       "Nation": "IRL",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "27",
       "Matches_Played": "36",
       "Starts": "32",
@@ -15228,7 +15162,7 @@
     },
     "Leander Dendoncker": {
       "Nation": "BEL",
-      "Poition": "MF,DF",
+      "Position": "MF,DF",
       "Age": "24",
       "Matches_Played": "38",
       "Starts": "32",
@@ -15254,7 +15188,7 @@
     },
     "Romain Saïss": {
       "Nation": "MAR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "33",
       "Starts": "31",
@@ -15280,7 +15214,7 @@
     },
     "Adama Traoré": {
       "Nation": "ESP",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "23",
       "Matches_Played": "37",
       "Starts": "27",
@@ -15306,7 +15240,7 @@
     },
     "Diogo Jota": {
       "Nation": "POR",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "22",
       "Matches_Played": "34",
       "Starts": "27",
@@ -15332,7 +15266,7 @@
     },
     "Willy Boly": {
       "Nation": "FRA",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "28",
       "Matches_Played": "22",
       "Starts": "22",
@@ -15358,7 +15292,7 @@
     },
     "Pedro Neto": {
       "Nation": "POR",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "19",
       "Matches_Played": "29",
       "Starts": "9",
@@ -15384,7 +15318,7 @@
     },
     "Ryan Bennett": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "29",
       "Matches_Played": "11",
       "Starts": "7",
@@ -15410,7 +15344,7 @@
     },
     "Rúben Vinagre": {
       "Nation": "POR",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "20",
       "Matches_Played": "16",
       "Starts": "6",
@@ -15436,7 +15370,7 @@
     },
     "Patrick Cutrone": {
       "Nation": "ITA",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "21",
       "Matches_Played": "12",
       "Starts": "3",
@@ -15462,7 +15396,7 @@
     },
     "Daniel Podence": {
       "Nation": "POR",
-      "Poition": "FW,MF",
+      "Position": "FW,MF",
       "Age": "23",
       "Matches_Played": "9",
       "Starts": "3",
@@ -15488,7 +15422,7 @@
     },
     "Max Kilman": {
       "Nation": "ENG",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "3",
       "Starts": "2",
@@ -15514,7 +15448,7 @@
     },
     "Jesús Vallejo": {
       "Nation": "ESP",
-      "Poition": "DF",
+      "Position": "DF",
       "Age": "22",
       "Matches_Played": "2",
       "Starts": "1",
@@ -15540,7 +15474,7 @@
     },
     "Morgan Gibbs-White": {
       "Nation": "ENG",
-      "Poition": "MF,FW",
+      "Position": "MF,FW",
       "Age": "19",
       "Matches_Played": "7",
       "Starts": "1",
@@ -15566,7 +15500,7 @@
     },
     "Bruno Jordão": {
       "Nation": "POR",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "20",
       "Matches_Played": "1",
       "Starts": "0",
@@ -15592,7 +15526,7 @@
     },
     "Bernard Ashley-Seal": {
       "Nation": "ENG",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "20",
       "Matches_Played": "0",
       "Starts": "0",
@@ -15611,7 +15545,7 @@
     },
     "Oskar Buur": {
       "Nation": "DEN",
-      "Poition": "DF,MF",
+      "Position": "DF,MF",
       "Age": "21",
       "Matches_Played": "0",
       "Starts": "0",
@@ -15630,7 +15564,7 @@
     },
     "Leonardo Campana": {
       "Nation": "ECU",
-      "Poition": "FW",
+      "Position": "FW",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -15649,7 +15583,7 @@
     },
     "Luke Cundle": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "",
       "Matches_Played": "0",
       "Starts": "0",
@@ -15668,7 +15602,7 @@
     },
     "Ryan John Giles": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "19",
       "Matches_Played": "0",
       "Starts": "0",
@@ -15687,7 +15621,7 @@
     },
     "Owen Otasowie": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "18",
       "Matches_Played": "0",
       "Starts": "0",
@@ -15706,7 +15640,7 @@
     },
     "Taylor Perry": {
       "Nation": "ENG",
-      "Poition": "MF",
+      "Position": "MF",
       "Age": "18",
       "Matches_Played": "0",
       "Starts": "0",
@@ -15725,7 +15659,7 @@
     },
     "John Ruddy": {
       "Nation": "ENG",
-      "Poition": "GK",
+      "Position": "GK",
       "Age": "32",
       "Matches_Played": "0",
       "Starts": "0",
@@ -15739,9 +15673,8 @@
       "Goals_per_90mins": "",
       "Assist_per_90mins": "",
       "G_plus_A_per_90mins": "",
-      "Defender_rating": 0.0,
       "Attacker_rating": 0.0,
-      "Goal_keeper_rating": 0
+      "Defender_rating": 0.0
     }
   }
 }
