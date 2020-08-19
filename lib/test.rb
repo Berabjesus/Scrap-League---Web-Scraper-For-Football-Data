@@ -29,4 +29,15 @@
 
 # p file = JSON.parse(File.read("test.json"))
 
-# p hash2[:ber]
+# p hash2[:ber]'
+
+
+
+
+require 'nokogiri'
+require 'open-uri'
+
+file = Nokogiri::HTML(URI.open('test.html'))
+# file.xpath('//comment()').remove
+file.xpath('//comment()').each { |comment| comment.replace(comment.text) }
+p file.inner_html
