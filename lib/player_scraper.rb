@@ -27,11 +27,11 @@ class PlayerScraper < Parser
   end
 
   def parse_players
-    @url_hash.each do |team_name, url|
+    @url_hash.each_with_index do |(team_name, url), index|
       @url = url
       parsed_url = parse
       parsed_url.xpath('//comment()').each { |comment| comment.replace(comment.text) }
-      print_team_node(team_name)
+      print_player_node(team_name, index)
       scrap_players(parsed_url, team_name)
     end
     PlayersRating.new
