@@ -1,6 +1,4 @@
 source 'https://rubygems.org'
-gem 'httparty'
 gem 'json'
-gem 'mechanize'
 gem 'nokogiri'
 gem 'open_uri_redirections'
