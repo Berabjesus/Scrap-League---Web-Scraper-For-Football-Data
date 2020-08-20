@@ -29,6 +29,3 @@ class TeamScraper < Parser
     FileHandler.new(@team_hash, @league).teams_to_json
   end
 end
-
-# Spain_La_Liga =  'https://fbref.com/en/comps/12/La-Liga-Stats'
-# TeamScraper.new(Spain_La_Liga, 'La Liga')

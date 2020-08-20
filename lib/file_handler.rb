@@ -40,4 +40,3 @@ class FileHandler
   end
 end
 
-# FileHandler.new({ber: 'ber'}, 'La Liga').teams_to_json

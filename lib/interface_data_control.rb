@@ -102,4 +102,3 @@ class InterfaceDataControl
   end
 end
 
-# InterfaceDataControl.new.suggest_best_xi

@@ -68,6 +68,3 @@ class PlayerScraper < Parser
     string.gsub(/[[:lower:]]+/, '').strip
   end
 end
-
-# league = ['Bundesliga', 'La liga', 'Ligue 1', 'PL', 'Seari A']
-# PlayerScraper.new('La Liga')
