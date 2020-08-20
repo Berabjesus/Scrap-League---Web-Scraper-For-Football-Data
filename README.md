@@ -1,23 +1,22 @@
 # Scrap League Web-Scrapper
-### Microverse > Technical curriculum >  Ruby Web scrapper Capstone Project
-> Ruby Capstone Project of Microverse, which students have to complete a real-world-like project within a given time limit according to [this project specifications](https://www.notion.so/Build-your-own-scraper-f54eaca54d8a4d758a5f0141468127a8)
+> Microverse > Technical curriculum >  Ruby Web scrapper Capstone Project which students have to complete a real-world-like project within a given time limit according to [this project specifications](https://www.notion.so/Build-your-own-scraper-f54eaca54d8a4d758a5f0141468127a8)
 
-### It's a football statistics Web Scraper, which allows users to get a complete list of information about 5 different leagues including, league standing, player stats, suggested best starting eleven, best attacker, best midfielder, and best defender  in the league.
-### creates a JSON file for all the stats for the user to use.
-### It uses https://fbref.com/ to scrap all the required data.
+> It's a football statistics Web Scraper, which allows users to get a complete list of information about 5 different leagues including, league standing, player stats, suggested best starting eleven, best attacker, best midfielder, and best defender  in the league.
+> creates a JSON file for all the stats for the user to use.
+> It uses https://fbref.com/ to scrap all the required data.
 
 ## Sample Screenshot
 ### League table
-<img src="./media/readme1.JPG" width="70%" height="500" />
+<img src="./media/readme1.JPG" width="100%" height="500" />
 
 ### Team menu
-<img src="./media/readme2.JPG" width="70%" height="500" />
+<img src="./media/readme2.JPG" width="100%" height="500" />
 
 ### players table
-<img src="./media/readme3.JPG" width="70%" height="500" />
+<img src="./media/readme3.JPG" width="100%" height="500" />
 
 ### suggested best starting eleven team based on the data
-<img src="./media/readme3.JPG" width="70%" height="500" />
+<img src="./media/readme4.JPG" width="70%" height="500" />
 
 
 
