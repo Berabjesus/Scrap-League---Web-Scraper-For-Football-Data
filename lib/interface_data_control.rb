@@ -1,12 +1,12 @@
 # frozen_string_literal: true
+
 require_relative './constants.rb'
 require_relative './team_scraper.rb'
 require_relative './player_scraper.rb'
 require_relative './file_handler.rb'
 
 class InterfaceDataControl
-  def initialize
-  end
+  def initialize; end
 
   def league_data_options(user_input)
     case user_input
@@ -25,7 +25,7 @@ class InterfaceDataControl
     end
     # call_team_scraper
     # call_player_scraper
-    suggest_best_xi(4 , 4 , 2)
+    suggest_best_xi(4, 4, 2)
   end
 
   private
@@ -56,17 +56,16 @@ class InterfaceDataControl
         gk_hash.merge!(player_name => attrib['Goal_keeper_rating']) if attrib['Position'].include? 'GK'
       end
     end
-    att_hash = att_hash.sort_by {|key,value| value}.reverse!
-    mid_hash = mid_hash.sort_by {|key,value| value}.reverse!
-    def_hash = def_hash.sort_by {|key,value| value}.reverse!
-    gk_hash = gk_hash.sort_by {|key,value| value}.reverse!
+    att_hash = att_hash.sort_by { |_key, value| value }.reverse!
+    mid_hash = mid_hash.sort_by { |_key, value| value }.reverse!
+    def_hash = def_hash.sort_by { |_key, value| value }.reverse!
+    gk_hash = gk_hash.sort_by { |_key, value| value }.reverse!
     puts "\t\t\t\t#{gk_hash[0]}"
-    defn.times { |i| print "#{def_hash[i]} -"}
+    defn.times { |i| print "#{def_hash[i]} -" }
     puts "\n\n"
-    mid.times { |i| print "#{mid_hash[i]} -"}
+    mid.times { |i| print "#{mid_hash[i]} -" }
     puts "\n\n"
-    att.times { |i| print "#{att_hash[i]} -"}
-
+    att.times { |i| print "#{att_hash[i]} -" }
   end
 
   def gets_league_hash

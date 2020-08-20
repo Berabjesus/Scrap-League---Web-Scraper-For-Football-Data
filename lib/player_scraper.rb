@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require_relative './constants.rb'
 require_relative './parser.rb'
 require_relative './file_handler.rb'

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module ShowStatus
   def print_league_node(current_node)
     puts "Scraping league data about #{current_node}"

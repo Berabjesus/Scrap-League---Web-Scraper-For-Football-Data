@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require_relative './constants.rb'
 require_relative 'file_handler.rb'
 
@@ -27,7 +28,7 @@ class PlayersRating
   end
 
   def rate_players(attrib)
-    attacker_rating = attrib['Goals'].to_f + attrib['Assists'].to_f 
+    attacker_rating = attrib['Goals'].to_f + attrib['Assists'].to_f
     defender_rating = attrib['Tackles_won'].to_f + attrib['Int_&_blks'].to_f + attrib['Clearances'].to_f - (attrib['Errors'].to_f * 10)
     if attrib['Position'] == 'GK'
       gk_rating = (attrib['Save_%'].to_f * 100) + (attrib['Clean_sheet'].to_f * 10) - attrib['Goals_conceded'].to_f
@@ -37,4 +38,4 @@ class PlayersRating
     attrib.merge!('Defender_rating' => defender_rating.round(3))
   end
 end
-PlayersRating.new
+# PlayersRating.new

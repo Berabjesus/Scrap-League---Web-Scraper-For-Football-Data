@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 TEAM_STAT_TYPE = %i[
   name
   Matches_Played
@@ -61,5 +63,5 @@ CLUB_WEBSITE = {
 }.freeze
 
 PLAYER_GK_SELECTED_INDEX = [6, 7, 9, 10, 14].freeze
-TEAM_DIR = './docs/clubs/'.freeze
-PLAYERS_DIR = './docs/players/'.freeze
+TEAM_DIR = './docs/clubs/'
+PLAYERS_DIR = './docs/players/'
