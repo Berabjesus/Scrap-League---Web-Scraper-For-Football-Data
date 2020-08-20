@@ -23,22 +23,23 @@ class InterfaceDataControl
     else
       return false
     end
-    # call_team_scraper
-    # call_player_scraper
-    suggest_best_xi(4, 4, 2)
+
+    call_team_scraper
+    call_player_scraper
+    # suggest_best_xi(4, 4, 2)
   end
 
   private
 
   def call_team_scraper
-    url = CLUB_WEBSITE[@league.to_s]
+    url = CLUB_WEBSITE[@league]
     TeamScraper.new(url, @league.to_s)
-    clear_screen
+    # clear_screen
   end
 
   def call_player_scraper
     PlayerScraper.new(@league.to_s)
-    clear_screen
+    # clear_screen
   end
 
   def suggest_best_xi(defn, mid, att)
@@ -60,12 +61,6 @@ class InterfaceDataControl
     mid_hash = mid_hash.sort_by { |_key, value| value }.reverse!
     def_hash = def_hash.sort_by { |_key, value| value }.reverse!
     gk_hash = gk_hash.sort_by { |_key, value| value }.reverse!
-    puts "\t\t\t\t#{gk_hash[0]}"
-    defn.times { |i| print "#{def_hash[i]} -" }
-    puts "\n\n"
-    mid.times { |i| print "#{mid_hash[i]} -" }
-    puts "\n\n"
-    att.times { |i| print "#{att_hash[i]} -" }
   end
 
   def gets_league_hash
@@ -74,11 +69,6 @@ class InterfaceDataControl
 
   def gets_player_hash
     @players = FileHandler.file_reader('PLAYERS', "#{PLAYERS_DIR}#{@league}_Players.json")
-  end
-
-  def clear_screen
-    system 'cls'
-    system 'clear'
   end
 end
 

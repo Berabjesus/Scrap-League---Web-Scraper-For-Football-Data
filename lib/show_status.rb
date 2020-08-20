@@ -2,10 +2,12 @@
 
 module ShowStatus
   def print_league_node(current_node)
-    puts "Scraping league data about #{current_node}"
+    puts "Scraping team data about #{current_node}"
   end
 
-  def print_team_node(current_node)
-    puts "Scraping team data about #{current_node}"
+  def print_player_node(current_node, i)
+    puts "Scraping player data about #{current_node}"
+    i.times {print '||'}
+    print " #{i * 5} % \n"
   end
 end
