@@ -66,11 +66,11 @@ class InterfaceDataControl
   end
 
   def gets_league_hash
-    @league = FileHandler.file_reader('CLUBS', @league.to_s)
+    league = FileHandler.file_reader('CLUBS', @league.to_s)
   end
 
   def gets_team_hash
-    teams = FileHandler.file_reader('PLAYERS', "#{PLAYERS_DIR}#{league}_Players.json")
+    teams = FileHandler.file_reader('PLAYERS', "#{PLAYERS_DIR}#{@league}_Players.json")
     teams.keys
   end
 
