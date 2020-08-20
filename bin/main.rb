@@ -3,7 +3,7 @@ require 'terminal-table'
 require_relative '../lib/interface_data_control.rb'
 require_relative '../lib/constants.rb'
 class Main
-  def initialize 
+  def initialize
     @interface = InterfaceDataControl.new
     @data_shelf = []
     welcome_interface
@@ -33,8 +33,8 @@ class Main
     abort_program(2) if option == 6
     @league_chosen = CLUB_WEBSITE.keys[option - 1]
     clear_screen
-    @interface.league_data_options(option) if @data_shelf.none?(option)
     @interface.league = CLUB_WEBSITE.keys[option - 1]
+    @interface.league_data_options(option) if @data_shelf.none?(option)
     @data_shelf << option if @data_shelf.none?(option)
     clear_screen
     team_option
@@ -55,15 +55,15 @@ class Main
     abort_program(2) if option == 8
     clear_screen
     if option == 1
-      League_table_interface()
+      league_table_interface
     elsif option == 2
-      players_table_interface()
+      players_table_interface
     else
       suggest_players(option)
     end
   end
 
-  def League_table_interface
+  def league_table_interface
     divide(1)
     data = @interface.gets_league_hash
     rows = []
@@ -74,7 +74,7 @@ class Main
       end
       rows << row
     end
-    table = Terminal::Table.new :headings => TEAM_STAT_TYPE, :rows => rows
+    table = Terminal::Table.new headings: TEAM_STAT_TYPE, rows: rows
     puts table
     navigate
   end
@@ -84,14 +84,14 @@ class Main
     teams = @interface.gets_team_hash
     puts "\n\t\t\t\t Choose a team \n"
     teams.length.times do |i|
-      puts "#{i+1} #{teams[i]}"
+      puts "#{i + 1} #{teams[i]}"
     end
     option = validate((1..20), gets.chomp.to_i)
 
     player_data = @interface.gets_player_hash(@league_chosen, option)
-    header = ['Name','N', 'P', 'A', 'MP', 'S', 'Mi', 'G', 'A', 'PK', 'PKA', 'YC', 'RC', 'G90', 'A90', 'GA90', 'T', 'TW', 'BL', 'In', 'CL', 'Er', 'AR', 'DR']
+    header = %w[Name N P A MP S Mi G A PK PKA YC RC G90 A90 GA90 T TW BL In CL Er AR DR]
 
-    table = Terminal::Table.new :headings =>header, :rows => player_data[option - 1]
+    table = Terminal::Table.new headings: header, rows: player_data[option - 1]
     puts table
     navigate
   end
@@ -100,16 +100,16 @@ class Main
     best_palyers = @interface.suggest_best_xi
     if option == 3
       divide(1)
-      puts "ATTACKERS"
+      puts 'ATTACKERS'
       puts best_palyers[0]
       divide(1)
-      puts "MIDFIELDERS"
+      puts 'MIDFIELDERS'
       puts best_palyers[1]
       divide(1)
-      puts "DEFENDERS"
+      puts 'DEFENDERS'
       puts best_palyers[2]
       divide(1)
-      puts "GOALKEEPER"
+      puts 'GOALKEEPER'
       puts best_palyers[3]
 
     elsif option == 4
@@ -123,7 +123,7 @@ class Main
     end
     navigate
   end
-  
+
   def navigate
     puts "\n\t 1.Change League \n"
     puts "\n\t 2.Change Team option \n"
@@ -140,7 +140,7 @@ class Main
     while range.none?(input) && try.positive?
       puts " Please choose a Number Between #{range} you have #{try} trials left".yellow
       break if range.any?(input = gets.chomp.to_i)
-  
+
       try -= 1
     end
     input

@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 require 'terminal-table'
 require_relative './constants.rb'
 require_relative './team_scraper.rb'
@@ -7,7 +6,7 @@ require_relative './file_handler.rb'
 
 class InterfaceDataControl
   attr_accessor :league
-  def initialize;end
+  def initialize; end
 
   def league_data_options(user_input)
     case user_input
@@ -61,7 +60,7 @@ class InterfaceDataControl
     def_hash = def_hash.sort_by { |_key, value| value }.reverse!
     gk_hash = gk_hash.sort_by { |_key, value| value }.reverse!
     best_attckers = [att_hash[0][0], att_hash[1][0]]
-    best_midfielder = [mid_hash[0][0], mid_hash[1][0],mid_hash[2][0], mid_hash[3][0]]
+    best_midfielder = [mid_hash[0][0], mid_hash[1][0], mid_hash[2][0], mid_hash[3][0]]
     best_defenders = [def_hash[0][0], def_hash[1][0], def_hash[2][0], def_hash[3][0]]
     [best_attckers, best_midfielder, best_defenders, gk_hash[0]]
   end
@@ -75,7 +74,7 @@ class InterfaceDataControl
     teams.keys
   end
 
-  def gets_player_hash(league = nil, team = nil)
+  def gets_player_hash(league = nil, _team = nil)
     if league.nil?
       FileHandler.file_reader('PLAYERS', "#{PLAYERS_DIR}#{@league}_Players.json")
     else

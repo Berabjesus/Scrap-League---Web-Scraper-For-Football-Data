@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative './constants.rb'
 require_relative './parser.rb'
 require_relative './file_handler.rb'
@@ -8,8 +6,8 @@ require_relative './show_status.rb'
 
 class PlayerScraper < Parser
   include ShowStatus
-  DIR_TYPE = 'CLUBS'
-  SITE = 'https://fbref.com'
+  DIR_TYPE = 'CLUBS'.freeze
+  SITE = 'https://fbref.com'.freeze
   def initialize(league)
     @league = league
     @url_hash = {}
