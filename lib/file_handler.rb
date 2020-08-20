@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative './constants.rb'
 require 'json'
 class FileHandler
@@ -26,10 +24,6 @@ class FileHandler
     end
   end
 
-  def dir_maker(dir)
-    Dir.mkdir(dir) unless File.exist?(dir)
-  end
-
   def self.file_reader(dir_type, file_name)
     return JSON.parse(File.read("#{TEAM_DIR}#{file_name}.json")) if dir_type == 'CLUBS'
     return JSON.parse(File.read(file_name)) if dir_type == 'PLAYERS'
@@ -37,6 +31,12 @@ class FileHandler
 
   def self.access_all_players_files
     Dir["#{PLAYERS_DIR}*.json"]
+  end
+
+  private
+
+  def dir_maker(dir)
+    Dir.mkdir(dir) unless File.exist?(dir)
   end
 end
 
