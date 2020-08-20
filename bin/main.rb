@@ -14,7 +14,7 @@ class Main
   def welcome_interface
     divide(1)
     divide(1)
-    puts "\n\t\t\t\t Welcome to Scrape League \n\n"
+    puts "\n\t\t\t\t Welcome to Scrap League \n\n"
     divide(1)
     divide(1)
     puts "\n"
