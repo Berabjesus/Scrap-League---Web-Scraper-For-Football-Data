@@ -101,4 +101,3 @@ class InterfaceDataControl
     end
   end
 end
-

@@ -39,4 +39,3 @@ class FileHandler
     Dir.mkdir(dir) unless File.exist?(dir)
   end
 end
-
