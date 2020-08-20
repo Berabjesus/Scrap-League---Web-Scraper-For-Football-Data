@@ -46,9 +46,15 @@
 # p hash['bery']
 
 hash1 = { first_person: { ber: 'ber', ket: 'ket' } }
-def write(file_name, arr, subject)
-  File.write(file_name, arr.first)
-  puts "#{file_name} file is created at the root directory with #{arr.length - 1} #{subject}."
-end
+# def write(file_name, arr, subject)
+#   File.write(file_name, arr.first)
+#   puts "#{file_name} file is created at the root directory with #{arr.length - 1} #{subject}."
+# end
 
-write('udacity_courses.csv', hash1, 'courses')
+# write('udacity_courses.csv', hash1, 'courses')
+
+require_relative '../lib/constants.rb'
+
+new1  = [] 
+new1 << PLAYER_ATT_ATTRIB << PLAYER_DEF_ATTRIB << PLAYER_GK_ATTRIB
+p new1

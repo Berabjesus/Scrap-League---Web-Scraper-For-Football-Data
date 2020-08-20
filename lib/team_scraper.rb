@@ -28,7 +28,6 @@ class TeamScraper < Parser
       end
       @team_hash[table_rows[i].css('td')[0].text.strip].merge!(TEAM_STAT_TYPE[-1] => table_rows[i].css('td')[0].css('a').first['href'])
     end
-    @team_hash = @team_hash.sort_by { |club_name, _attrib| club_name }.to_h
     FileHandler.new(@team_hash, @league).teams_to_json
   end
 end
