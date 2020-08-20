@@ -26,6 +26,8 @@ class FileHandler
     end
   end
 
+  private
+  
   def dir_maker(dir)
     Dir.mkdir(dir) unless File.exist?(dir)
   end

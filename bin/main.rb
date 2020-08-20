@@ -9,6 +9,8 @@ class Main
     welcome_interface
   end
 
+  private
+
   def welcome_interface
     divide(1)
     divide(1)

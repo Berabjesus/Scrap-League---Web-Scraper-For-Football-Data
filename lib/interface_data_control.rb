@@ -43,7 +43,6 @@ class InterfaceDataControl
   public
 
   def suggest_best_xi
-    @league = "English_Premier_League"
     players = gets_player_hash
     att_hash = {}
     mid_hash = {}
@@ -64,7 +63,7 @@ class InterfaceDataControl
     best_attckers = [att_hash[0][0], att_hash[1][0]]
     best_midfielder = [mid_hash[0][0], mid_hash[1][0],mid_hash[2][0], mid_hash[3][0]]
     best_defenders = [def_hash[0][0], def_hash[1][0], def_hash[2][0], def_hash[3][0]]
-    [best_attckers, best_midfielder, best_defenders, gk_hash[0][0]]
+    [best_attckers, best_midfielder, best_defenders, gk_hash[0]]
   end
 
   def gets_league_hash
