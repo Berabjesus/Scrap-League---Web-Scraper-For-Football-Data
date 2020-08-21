@@ -20,7 +20,7 @@
 <img src="./media/readme3.JPG" width="100%" height="500" />
 
 ### suggested best starting eleven team based on the data
-<img src="./media/readme4.JPG" width="80%" height="500" />
+<img src="./media/readme4.JPG" width="60%" height="500" />
 
 
 
