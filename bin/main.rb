@@ -24,6 +24,7 @@ class Main
   end
 
   def main_option
+    $stdout.sync = true
     puts "\n\t\t\t\t Choose Which Football league Stat You Want to Get \n"
     puts "\n\t\t\t\t 1.English_Premier_League \n"
     puts "\n\t\t\t\t 2.Spain_La_Liga \n"
