@@ -1,23 +1,29 @@
 AllCops:
   Exclude:
-    - "README.md"
     - "Guardfile"
     - "Rakefile"
 
   DisplayCopNames: true
 
 Layout/LineLength:
-  Max: 120
-Metrics/MethodLength:
-  Max: 20
-Metrics/AbcSize:
-  Max: 50
-Metrics/ClassLength:
   Max: 150
+Metrics/MethodLength:
+  Max: 100
+Metrics/AbcSize:
+  Max: 80
+Metrics/ClassLength:
+  Max: 180
 Metrics/BlockLength:
   ExcludedMethods: ['describe']
   Max: 30
-
+Metrics/CyclomaticComplexity:
+  Enabled: false
+Metrics/PerceivedComplexity:
+  Enabled: false
+Metrics/ModuleLength:
+  Enabled: false
+Style/For:
+  Enabled: false
 
 Style/Documentation:
   Enabled: false
@@ -43,9 +49,15 @@ Lint/RaiseException:
   Enabled: false
 Lint/StructNewOverride:
   Enabled: false
+Lint/ScriptPermission: 
+  Enabled: false
 Style/HashEachMethods:
   Enabled: false
 Style/HashTransformKeys:
   Enabled: false
 Style/HashTransformValues:
   Enabled: false
+
+Naming/FileName:
+  Enabled: false
+
