@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'colorize'
 require 'terminal-table'
 require_relative '../lib/interface_data_control.rb'
