@@ -1,8 +1,8 @@
 # Scrap League Web-Scrapper
-> Microverse > Technical curriculum >  Ruby Web scrapper Capstone Project which students have to complete a real-world-like project within a given time limit according to [this project specifications](https://www.notion.so/Build-your-own-scraper-f54eaca54d8a4d758a5f0141468127a8)
+> This is a Microverse, Technical curriculum, Ruby Web scrapper Capstone Project which students have to complete a real-world-like project within a given time limit according to [this project specifications](https://www.notion.so/Build-your-own-scraper-f54eaca54d8a4d758a5f0141468127a8).
 
-> It's a football statistics Web Scraper, which allows users to get a complete list of information about 5 different leagues including, league standing, player stats, suggested best starting eleven, best attacker, best midfielder, and best defender  in the league.
-> creates a JSON file for all the stats for the user to use.
+> In this project, football statistics Web Scraper program was built which allows users to get a complete list of information about 5 different leagues including, league standing, player stats, suggested best starting eleven, best attacker, best midfielder, and best defender  in the league.
+> The program creates a JSON file for all the stats for the user to use.
 > It uses https://fbref.com/ to scrap all the required data.
 
 ## Sample Screenshot
@@ -16,7 +16,7 @@
 <img src="./media/readme3.JPG" width="100%" height="500" />
 
 ### suggested best starting eleven team based on the data
-<img src="./media/readme4.JPG" width="70%" height="500" />
+<img src="./media/readme4.JPG" width="80%" height="500" />
 
 
 
@@ -67,13 +67,9 @@
 ├── .rspec
 ```
 ## Prerequisites
-1) `gem install nokogiri`
-2) `gem install json`
-3) `gem install colorize`
-4) `gem install colorize`
-5) `gem install terminal-table`
-6) `gem install rspec`
-
+1) Ruby
+2) CLI basic knowledge
+3) Install the gem in the gemfile
 
 ## Deployment
 1) Git clone this repo and cd the to the `Scrap_League-Web-Scraper` directory.
