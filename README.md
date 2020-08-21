@@ -8,7 +8,7 @@
 ## Sample Screenshot
 
 ### Scraping status and loading bar
-<img src="./media/readme5.JPG" width="100%" height="500" />
+<img src="./media/readme5.JPG" width="50%" height="500" />
 
 ### League table
 <img src="./media/readme1.JPG" width="100%" height="500" />
