@@ -3,6 +3,7 @@ GEM
   specs:
     colorize (0.8.1)
     diff-lcs (1.4.4)
+    fileutils (1.4.1)
     json (2.3.1)
     mini_portile2 (2.4.0)
     nokogiri (1.10.10-x64-mingw32)
@@ -30,6 +31,7 @@ PLATFORMS
 
 DEPENDENCIES
   colorize
+  fileutils
   json
   nokogiri
   open_uri_redirections

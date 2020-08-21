@@ -1,5 +1,6 @@
 require_relative './constants.rb'
 require 'json'
+require 'fileutils'
 class FileHandler
   def initialize(hash, file_name)
     @hash = hash
@@ -36,6 +37,6 @@ class FileHandler
   private
 
   def dir_maker(dir)
-    Dir.mkdir(dir) unless File.exist?(dir)
+    FileUtils.mkdir_p(dir) unless File.exist?(dir)
   end
 end

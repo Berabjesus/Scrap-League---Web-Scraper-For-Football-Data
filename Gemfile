@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem 'colorize'
+gem 'fileutils'
 gem 'json'
 gem 'nokogiri'
 gem 'open_uri_redirections'
