@@ -67,6 +67,7 @@ class Main
   end
 
   def league_table_interface
+    loading_interface
     divide(1)
     data = @interface.gets_league_hash
     rows = []
@@ -90,9 +91,9 @@ class Main
       puts "#{i + 1} #{teams[i]}"
     end
     option = validate((1..20), gets.chomp.to_i)
-
+    loading_interface
     player_data = @interface.gets_player_hash(@league_chosen, option)
-    header = %w[Name N P A MP S Mi G A PK PKA YC RC G90 A90 GA90 T TW BL In CL Er AR DR]
+    header = %w[Name N P A MP S Mi G A PK PKA YC RC G90 A90 GA90 T TW BL In InB CL Er AR DR]
 
     table = Terminal::Table.new headings: header, rows: player_data[option - 1]
     puts table
@@ -103,16 +104,16 @@ class Main
     best_palyers = @interface.suggest_best_xi
     if option == 3
       divide(1)
-      puts 'ATTACKERS'
+      puts "ATTACKERS \n\n"
       puts best_palyers[0]
       divide(1)
-      puts 'MIDFIELDERS'
+      puts "MIDFIELDERS \n\n"
       puts best_palyers[1]
       divide(1)
-      puts 'DEFENDERS'
+      puts "DEFENDERS \n\n"
       puts best_palyers[2]
       divide(1)
-      puts 'GOALKEEPER'
+      puts "GOALKEEPER \n\n"
       puts best_palyers[3]
 
     elsif option == 4
@@ -156,6 +157,13 @@ class Main
       100.times { print '!'.black.on_red }
     end
     print "\n"
+  end
+
+  def loading_interface
+    puts "\n\nLoading . . . "
+    puts '!! Please maximize your Terminal window for a better experiance !!'.yellow
+    sleep(3)
+    clear_screen
   end
 
   def clear_screen
