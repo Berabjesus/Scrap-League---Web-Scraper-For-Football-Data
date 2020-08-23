@@ -8,7 +8,7 @@
 ## Sample Screenshot
 
 ### Scraping status and loading bar
-<img src="./media/readme5.JPG" width="50%" height="500" />
+<img src="./media/readme6.JPG" width="50%" height="500" />
 
 ### League table
 <img src="./media/readme1.JPG" width="100%" height="500" />
@@ -20,7 +20,7 @@
 <img src="./media/readme3.JPG" width="100%" height="500" />
 
 ### suggested best starting eleven team based on the data
-<img src="./media/readme4.JPG" width="60%" height="500" />
+<img src="./media/readme7.JPG" width="60%" height="500" />
 
 
 
