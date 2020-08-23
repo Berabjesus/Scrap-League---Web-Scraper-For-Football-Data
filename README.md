@@ -79,8 +79,9 @@
 1) Git clone this repo and cd the to the `Scrap_League-Web-Scraper` directory.
 2) Run `bundle install` in command line to install Nokogiri and other Gems.
 3) Run `bin/main.rb`.
-4) Select the league you want to get data from and browse throught the UI
-5) You will get a JSON file of all the data scraped in the ./docs folder.
+4) Select the league you want to get data from and browse through the UI
+5) Make sure to maximize your terminal window to view contents better.
+6) You will get a JSON file of all the data scraped in the ./docs folder.
 
 ## Run tests
 1) Git clone this repo and cd the to the `Scrap_League-Web-Scraper` directory.
