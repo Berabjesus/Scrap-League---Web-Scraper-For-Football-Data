@@ -106,12 +106,15 @@ class Main
       divide(1)
       puts "ATTACKERS \n\n"
       puts best_palyers[0]
+      puts "\n"
       divide(1)
       puts "MIDFIELDERS \n\n"
       puts best_palyers[1]
+      puts "\n"
       divide(1)
       puts "DEFENDERS \n\n"
       puts best_palyers[2]
+      puts "\n"
       divide(1)
       puts "GOALKEEPER \n\n"
       puts best_palyers[3]
