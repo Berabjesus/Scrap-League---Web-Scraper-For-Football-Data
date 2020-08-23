@@ -17,7 +17,7 @@
 <img src="./media/readme2.JPG" width="100%" height="500" />
 
 ### players table
-<img src="./media/readme3.JPG" width="100%" height="500" />
+<img src="./media/readm3.JPG" width="100%" height="500" />
 
 ### suggested best starting eleven team based on the data
 <img src="./media/readme7.JPG" width="50%" height="500" />
