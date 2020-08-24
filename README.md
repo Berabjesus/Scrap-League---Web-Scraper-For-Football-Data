@@ -76,7 +76,7 @@
 3) Install the gem in the gemfile
 
 ## Deployment
-1) Git clone this repo and cd the to the `Scrap_League-Web-Scraper` directory.
+1) Git clone this repo and change the CLI directory to `Scrap_League-Web-Scraper`.
 2) Run `bundle install` in command line to install Nokogiri and other Gems.
 3) Run `bin/main.rb`.
 4) Select the league you want to get data from and browse through the UI
