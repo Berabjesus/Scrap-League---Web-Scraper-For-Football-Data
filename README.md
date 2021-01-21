@@ -1,7 +1,7 @@
 # Scrap League - Web Scraper for Football Data
 > This is a Ruby Web scrapper Capstone Project which was made according to [this project specifications](https://www.notion.so/Build-your-own-scraper-f54eaca54d8a4d758a5f0141468127a8).
 
-> In this project, football statistics Web Scraper program was built which allows users to get a complete list of information about 5 different leagues. The following stats are analyzed based on the scaped data. 
+> In this project, football statistics Web Scraper program was built which allows users to get a complete list of information about 5 different leagues. The following stats are analyzed based on the scaped data: -
 
     - league standing
     - player stats
