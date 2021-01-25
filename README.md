@@ -9,7 +9,7 @@
     - best attacker
     - best midfielder 
     - best defender  in the league.
-    
+> The suggestions regarding the best starting eleven and best players are not scraped values but are calculated in the appilcation based on the players performance. 
 > The program creates a JSON file for all the stats for the user to use.
 > It uses https://fbref.com/ to scrap all the required data.
 
